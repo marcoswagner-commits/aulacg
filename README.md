@@ -45,4 +45,4 @@ Passos:
 - [Trabalho 2 - Unificação de Algoritmos]()
 
 ### Aulas
-- [Roteiro específico da Aula - 01/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/f8bfb2bcd4ffb93a44f3cd116193a5804c8415be/aula1.md)
+- [Roteiro específico da Aula - 01/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula1.md)
