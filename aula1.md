@@ -7,7 +7,7 @@
 
 - Vejam os vídeos abaixo que mostram a implementação do algoritmo
 - 
-[![material complementar](https://i9.ytimg.com/vi/l2LYNFHsraY/mq1.jpg?sqp=CNj11YUG&rs=AOn4CLAeuo9lhYo-flrCs5Ccq3YFq4D__w)](https://youtu.be/l2LYNFHsraY)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/772c14a7a9279b7671c6b781cb370fecc3c8ceb9/Capa_Videos_Youtube.png)](https://youtu.be/l2LYNFHsraY)
 -
 
 [![material complementar](https://i9.ytimg.com/vi/NNHFp6vDD00/mq3.jpg?sqp=CLSB1oUG&rs=AOn4CLBRsmyzfmzNPG-g7Vcc6nVYs7QSRw)](https://youtu.be/NNHFp6vDD00)
