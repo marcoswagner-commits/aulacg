@@ -3,14 +3,11 @@
 
 ## Implementação do Algoritmo Clássico de Geração de Linhas Analítico
 
-### Passo 1: Abrir o Apache Netbeans e criar o projeto
-### Passo 2: Abrir o Apache Netbeans e criar o projeto
-### Passo 3: Abrir o Apache Netbeans e criar o projeto
-
 
 
 - Vejam os vídeos abaixo que mostram a implementação do algoritmo
 [![material complementar](https://i9.ytimg.com/vi/l2LYNFHsraY/mq1.jpg?sqp=CNj11YUG&rs=AOn4CLAeuo9lhYo-flrCs5Ccq3YFq4D__w)](https://youtu.be/l2LYNFHsraY)
+
 [![material complementar](https://i9.ytimg.com/vi/NNHFp6vDD00/mq3.jpg?sqp=CLSB1oUG&rs=AOn4CLBRsmyzfmzNPG-g7Vcc6nVYs7QSRw)](https://youtu.be/NNHFp6vDD00)
 
 :shipit: Código 1
