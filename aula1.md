@@ -10,7 +10,7 @@
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/772c14a7a9279b7671c6b781cb370fecc3c8ceb9/Capa_Videos_Youtube.png)](https://youtu.be/l2LYNFHsraY)
 -
 
-[![material complementar](https://i9.ytimg.com/vi/NNHFp6vDD00/mq3.jpg?sqp=CLSB1oUG&rs=AOn4CLBRsmyzfmzNPG-g7Vcc6nVYs7QSRw)](https://youtu.be/NNHFp6vDD00)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/ed96718e42bb50ad3cc413efcab534f8f6ad0f1a/Capa_Videos_Youtube-2.png)](https://youtu.be/NNHFp6vDD00)
 
 :shipit: Código 1
 ```
