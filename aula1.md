@@ -1,0 +1,61 @@
+# Aula 01/06/2021 - Computação Gráfica
+## Atividades da aula - roteiro
+
+## Implementação do Algoritmo Clássico de Geração de Linhas Analítico
+
+### Passo 1: Abrir o Apache Netbeans e criar o projeto
+### Passo 2: Abrir o Apache Netbeans e criar o projeto
+### Passo 3: Abrir o Apache Netbeans e criar o projeto
+
+
+
+- Vejam os vídeos abaixo que mostram a implementação do algoritmo
+[![material complementar](https://i9.ytimg.com/vi/l2LYNFHsraY/mq1.jpg?sqp=CNj11YUG&rs=AOn4CLAeuo9lhYo-flrCs5Ccq3YFq4D__w)](https://youtu.be/l2LYNFHsraY)
+[![material complementar](https://i9.ytimg.com/vi/NNHFp6vDD00/mq3.jpg?sqp=CLSB1oUG&rs=AOn4CLBRsmyzfmzNPG-g7Vcc6nVYs7QSRw)](https://youtu.be/NNHFp6vDD00)
+
+:shipit: Código 1
+```
+public class Desenha extends JFrame {
+        
+    public Desenha() {
+       
+        this.setTitle("Linha Reta - Analítico");
+        this.setSize(300,300);
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
+        this.setLocationRelativeTo(null);
+        this.setVisible(true);
+        
+    }
+    
+    @Override
+    public void paint(Graphics g) {
+       g.setColor(Color.red);
+       algAnalitic(g,10,50,60,100);
+       algAnalitic(g,10,50,60,50);
+       algAnalitic(g,20,50,20,100);
+    }
+    
+    public void algAnalitic(Graphics g, int xi, int yi, int xf, int yf) {
+        float m, b, dy, dx;
+        dy = yf - yi;
+        dx = xf - xi;
+        
+        m = (float) dy/dx;
+        
+        b = (float) (yi - m * xi);
+        
+        for(int x = xi; x<=xf; x++) {
+            int y = (int) (m * x + b);
+            putPixel(g,x,y);
+        }
+    }
+    
+    public void putPixel(Graphics g, int x, int y) {
+        g.drawLine(x, y, x, y);
+    }
+            
+    
+}
+```
+
+
