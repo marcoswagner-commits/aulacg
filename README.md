@@ -46,3 +46,4 @@ Passos:
 
 ### Aulas
 - [Roteiro específico da Aula - 01/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula1.md)
+- [Roteiro específico da Aula - 08/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula2.md)
