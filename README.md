@@ -25,9 +25,9 @@
 ## 2  - Ferramentas e recursos
 
 ### Ferramentas:
-Java – https://www.oracle.com/technetwork/java/javase/downloads 
-Apache Netbeans - https://netbeans.apache.org
-Unity3D - https://unity3d.com/pt/get-unity/download
+- Java – https://www.oracle.com/technetwork/java/javase/downloads 
+- Apache Netbeans - https://netbeans.apache.org
+- Unity3D - https://unity3d.com/pt/get-unity/download
 
 ### Contas:
 Github – http://www.github.com 
@@ -88,5 +88,5 @@ Github – http://www.github.com
 ### Aulas
 - [Roteiro específico da Aula - 01/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula1.md)
 - [Roteiro específico da Aula - 08/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula2.md)
-- [Roteiro específico da Aula - 10/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula3.md)
+- [Roteiro específico da Aula - 10/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/1cc2efb41cc40b4c8ffbd273fb2535b1468d4970/aula3.md)
 - [Roteiro específico da Aula - 15/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula4.md)
