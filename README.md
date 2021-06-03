@@ -83,7 +83,7 @@ Github – http://www.github.com
 
 
 ### Trabalhos
-- [Trabalho 2 - Unificação de Algoritmos]()
+- [Trabalho 2 - Unificação de Algoritmos](https://github.com/marcoswagner-commits/projetos_cg/blob/c43851b0470c70dadfadf5fc2094c03faeb22cdf/Trabalho2%20-%20CG.pdf)
 
 ### Aulas
 - [Roteiro específico da Aula - 01/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/2ddf3f748c9844030265eae2dfd4b095a4df1ddd/aula1.md)
