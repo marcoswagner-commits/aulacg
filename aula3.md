@@ -5,9 +5,11 @@
 
 
 - Veja o vídeo abaixo que mostra a implementação do algoritmo
-- 
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/379ff47532b355368cd009a4ddaf09d58173c37e/Capa_Videos_Youtube-3.png)](https://youtu.be/yT3wTKKw6qE)
--
+ 
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/de1034f8389da18e026c08cec900f82ec36e8c2f/Capa_Videos_Youtube-aula3.png)](https://www.youtube.com/watch?v=C719hAhvCDw)
+
+
+- Obs.: O código abaixo possui uma correção que não está presente no vídeo (em duas seções do código onde está =+ deveria ser +=)!
 
 :shipit: Código 1
 ```
@@ -32,7 +34,39 @@ public class Desenha extends JFrame {
     }
        
 
-    
+    private void algBres(Graphics g, int xi, int yi, int xf, int yf) {
+        
+       int x = xi, y = yi, d=0, dx = xf-xi, dy = yf-yi, c, m, incX=1, incY=1;
+       
+       if(dx < 0) {incX = -1; dx = -dx;}
+       if(dy < 0) {incY = -1; dy = -dy;}
+       
+       
+       if(dy <= dx) {
+           c = 2 * dx; m = 2 * dy;
+           if(incX < 0) dx++;
+           for(;;) {
+               putPixel(g,x,y);
+               if (x == xf) break;
+               x += incX;
+               d += m;
+               if(d >= dx) {y += incY; d -= c;}
+
+           }
+       } else {
+           c = 2 * dy; m = 2 * dx;
+           if(incY < 0) dy++;
+           for(;;) {
+               putPixel(g,x,y);
+               if (y == yf) break;
+               y += incY;
+               d += m;
+               if(d >= dy) {x += incX; d -= c;}
+
+       }
+       
+    }
+    }
     
     
      public void putPixel(Graphics g, int x, int y) {
