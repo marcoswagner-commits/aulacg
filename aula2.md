@@ -4,7 +4,7 @@
 ## Implementação do Algoritmo Clássico de Geração de Linhas - DDA (Analisador Diferencial Digital)
 
 
-- Veja o vídeo abaixo que mostra a implementação do algoritmo
+- :+1: Veja o vídeo abaixo que mostra a implementação do algoritmo
 - 
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/379ff47532b355368cd009a4ddaf09d58173c37e/Capa_Videos_Youtube-3.png)](https://youtu.be/yT3wTKKw6qE)
 -
