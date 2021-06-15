@@ -18,7 +18,7 @@
 
 ### 1.3 Avaliações
 - Trabalho 1 - Conceitos - Uso do Kahoot!
-- Trabalho 2 - Unificação de Algorimtos: Linhas, Polígonos e Circunferências
+- Trabalho 2 - Unificação de Algoritmos: Linhas, Polígonos e Circunferências
 - Trabalho 3 - Unificação de Algoritmos: Sistemas de Coordenadas, Recorte, Polígonos e Curvas
 - Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (Jogo de Xadrez) 
 
