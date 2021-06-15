@@ -12,10 +12,10 @@
 :shipit: Código 1
 ```
 public class Desenha extends JFrame {
-    
+
     public Desenha() {
         
-        this.setTitle("Algoritmo e Geração de Linhas - todos os algoritmos");
+        this.setTitle("Algoritmo de Geração de Linhas - Todos");
         this.setSize(300,300);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
@@ -24,24 +24,29 @@ public class Desenha extends JFrame {
     
     @Override
     public void paint(Graphics g) {
-         g.setColor(Color.blue);
-        algAnalitic(g,10,40,60,90);
-        algAnalitic(g,10,40,50,100);
-        algAnalitic(g,10,40,80,40);
-        algAnalitic(g,10,40,10,90);
-         g.setColor(Color.red);
-        algDDA(g,10,40,60,90);
-        algDDA(g,10,40,50,100);
-        algDDA(g,10,40,80,40);
-        algDDA(g,10,40,10,90);
-         g.setColor(Color.green);
-        algBres(g,10,40,60,90);
-        algBres(g,10,40,50,100);
-        algBres(g,10,40,80,40);
-        algBres(g,10,40,10,90);
+//       g.setColor(Color.red);
+//        algAnalitic(g,50,50,150,150); //45º
+//        algAnalitic(g,50,50,150,50); // 0º
+//        algAnalitic(g,50,50,50,150); //90º
+//        algAnalitic(g,50,50,150,100); //67,5º
+//        algAnalitic(g,50,50,100,150); //112,5º
+//       
+       g.setColor(Color.red);
+        algDDA(g,150,50,50,150); //45º
+        ///algDDA(g,51,51,151,51); // 0º
+        //algDDA(g,51,51,51,151); //90º
+        //algDDA(g,51,51,151,101); //67,5º
+        //algDDA(g,51,51,101,151); //112,5º
+       
+//       g.setColor(Color.blue);
+//        algBres(g,52,52,152,152); //45º
+//        algBres(g,52,52,152,52); // 0º
+//        algBres(g,52,52,52,152); //90º
+//        algBres(g,52,52,152,102); //67,5º
+//        algBres(g,52,52,102,152); //112,5º
     }
     
-    public void algAnalitic(Graphics g, int x1, int y1,int x2,int y2) {
+     public void algAnalitic(Graphics g, int x1, int y1,int x2,int y2) {
         float m, b, dy, dx;
         dy = y2 - y1;
         dx = x2 - x1;
@@ -62,21 +67,32 @@ public class Desenha extends JFrame {
         
         int steps;
         float x=xi, y=yi, incX, incY;
+            System.out.println("xi: "+x+"- yi: "+ y);
         
         int dx = xf - xi;
         int dy = yf - yi;
         
         if(Math.abs(dx)>Math.abs(dy)) {
-            steps = Math.abs(dx); incX = 1; incY= (float) dy /dx; }
-        else {
-            steps = Math.abs(dy); incY = 1; incX= (float) dx /dy; }
-        
-        System.out.println(steps + "-" + dx + "-" + dy+ "-" + incX + "-" + incY );
+            steps = Math.abs(dx); incX = 1; incY= (float) dy /dx; 
+            if (dx < 0) incX = -1;
+        }
+        else  if(Math.abs(dx)<Math.abs(dy)){
+            steps = Math.abs(dy); incY = 1; incX= (float) dx /dy; 
+            if (dy < 0) incY = -1;  
+        } else {
+            steps = Math.abs(dy); incY = 1; incX= 1; 
+            if (dy < 0) incY = -1;  
+            if (dx < 0) incX = -1;  
+        }
+               
+        System.out.println(steps + "/" + dx + "/" + dy+ "/" + incX + "/" + incY );
     
         for(int i=0; i<steps; i++) {
             x = x + incX;
             y = y + incY;
-            putPixel(g,Math.round(x),Math.round(y)); }
+            putPixel(g,Math.round(x),Math.round(y)); 
+            System.out.println("xi: "+x+"- yi: "+ y);
+        }
             
         
     }
@@ -116,11 +132,10 @@ public class Desenha extends JFrame {
        
     }
     }
-        
-    public void putPixel(Graphics g, int x, int y) {
-        g.drawLine(x, y, x, y);
-        
-    }
     
+    
+    public void putPixel(Graphics g, int x, int y) {
+        g.drawLine(x,y,x,y);
+    }
 }
 ```
