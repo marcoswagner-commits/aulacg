@@ -28,10 +28,12 @@ public class Desenha extends JFrame {
     @Override
     public void paint(Graphics g) {
         g.setColor(Color.red);
-        algBres(g,10,40,60,90);
-        //algBres(g,10,40,50,100);
-        //algBres(g,10,40,80,40);
-        //algBres(g,10,40,10,90);
+        algBres(g,50,50,150,150); //45º
+        algBres(g,50,50,150,50); // 0º
+        algBres(g,50,50,50,150); //90º
+        algBres(g,50,50,150,100); //67,5º
+        algBres(g,50,50,100,150); //112,5º
+        
     }
        
 
@@ -46,7 +48,7 @@ public class Desenha extends JFrame {
        if(dy <= dx) {
            c = 2 * dx; m = 2 * dy;
            System.out.println(c+"-"+m);
-           if(incX < 0) dx++;
+           //if(incX < 0) dx++;
            for(;;) {
                putPixel(g,x,y);
                if (x == xf) break;
@@ -58,7 +60,7 @@ public class Desenha extends JFrame {
        } else {
            c = 2 * dy; m = 2 * dx;
            System.out.println(c+"-"+m);
-           if(incY < 0) dy++;
+           //if(incY < 0) dy++;
            for(;;) {
                putPixel(g,x,y);
                if (y == yf) break;
