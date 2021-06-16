@@ -6,7 +6,7 @@
 
 - :+1: Veja o vídeo abaixo que mostra a implementação do algoritmo
 - 
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/379ff47532b355368cd009a4ddaf09d58173c37e/Capa_Videos_Youtube-3.png)](https://youtu.be/yT3wTKKw6qE)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/3d03ac7454b1d35d07f826a26e81685b69a6df23/Capa_Aula2_Mod_1.png)](https://youtu.be/yT3wTKKw6qE)
 -
 
 :shipit: Código 1
