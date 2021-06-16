@@ -6,7 +6,7 @@
 
 - Veja o vídeo abaixo que mostra a implementação do algoritmo
  
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/de1034f8389da18e026c08cec900f82ec36e8c2f/Capa_Videos_Youtube-aula3.png)](https://www.youtube.com/watch?v=C719hAhvCDw)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/32af429f87070ccb22bcc95cce90002801565898/Capa_Aula3.png)](https://www.youtube.com/watch?v=C719hAhvCDw)
 
 
 - Obs.: O código abaixo possui uma correção que não está presente no vídeo (em duas seções do código onde está =+ deveria ser +=)!
