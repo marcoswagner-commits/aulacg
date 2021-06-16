@@ -8,7 +8,7 @@
 
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
  
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/0c0c8bd24a072a2cc511e78a6089101c524e4610/Capa_Videos_Youtube-aula4.png)](https://www.youtube.com/watch?v=dn13HmKxUjc)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/26515e4899a5ded40061bf3f97adee23b9526588/Capa_Aula4.png)](https://www.youtube.com/watch?v=dn13HmKxUjc)
 
 
 :shipit: Código 1
