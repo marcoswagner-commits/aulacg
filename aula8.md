@@ -1,3 +1,4 @@
+![Captura de Tela 2021-06-20 às 15 53 11](https://user-images.githubusercontent.com/81576640/122685078-bb95c900-d1df-11eb-863c-d8cb6b5b8107.png)
 ## Aula 08 - Computação Gráfica
 
 > Aula 29/06/2021 - Computação Gráfica
