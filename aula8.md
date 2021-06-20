@@ -8,16 +8,16 @@
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
  
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula7.png)](https://www.youtube.com/watch?v=zQzDaPgwTRE)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula8.png)](https://www.youtube.com/watch?v=z1UYtwvp6pE)
 
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula7.png)](https://www.youtube.com/watch?v=q83M8KEwCAA)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula8.png)](https://www.youtube.com/watch?v=q83M8KEwCAA)
 
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula7.png)](https://www.youtube.com/watch?v=dzdvA3lyvsw)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula8.png)](https://www.youtube.com/watch?v=dzdvA3lyvsw)
 
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula7.png)](https://www.youtube.com/watch?v=6Qk4JtBliiU)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula8.png)](https://www.youtube.com/watch?v=6Qk4JtBliiU)
 
 
 :shipit: Código 1
