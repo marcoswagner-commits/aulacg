@@ -11,6 +11,7 @@
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
  
 🎬
+
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula10.png)](https://www.youtube.com/watch?v=41vksW80Ra8)
 
 
