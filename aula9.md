@@ -17,7 +17,7 @@
 🎬
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula9.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
 
-
+![Captura de Tela 2021-06-21 às 13 53 55](https://user-images.githubusercontent.com/81576640/122799505-315d6b80-d298-11eb-87ab-6e19e249cda2.png)
 
 :shipit: Código 1
 ```
