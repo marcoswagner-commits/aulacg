@@ -5,6 +5,8 @@
 
 ## Implementação do Algoritmo Clássico de Circunferência - Equação Paramétrica
 
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
+
 ![Tabela_Seno_Coseno](https://user-images.githubusercontent.com/81576640/122778837-b5592880-d283-11eb-8c57-c097cc932717.jpg)
 
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
