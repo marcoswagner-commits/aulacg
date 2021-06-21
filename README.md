@@ -4,7 +4,7 @@
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/9dae42bcce0c410a38059c63a00c25eb84b5be7b/ApostilaCG2021_Modulo2.pdf)
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
 
 ### 1.1 Conteúdos
 
