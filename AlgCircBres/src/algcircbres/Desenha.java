@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package algcircincsem;
+package algcircbres;
 
 import java.awt.Graphics;
 import javax.swing.JComponent;
@@ -22,20 +22,19 @@ public class Desenha extends JComponent {
     
     @Override
     public void paint(Graphics g) {
-        algIncSem(g,100);
+        algBres(g,100);
         
     }
     
-    public void algIncSem(Graphics g, int raio) {
-        int x=0, y=0;
-        double ang=0.0;
-        
-        while(ang<Math.PI/4) {
-             x = (int) (raio * Math.cos(ang));
-            y = (int) (raio * Math.sin(ang));
-            //putPixel(g,x,y);
+    public void algBres(Graphics g, int raio) {
+        int x=0, y=raio, u=1, v=2 *raio-1, e=0;
+               
+        while(x<=y) {
             simetria(g,x,y);
-            ang = ang + (double) 1/raio;
+            x++;
+            e = e + u;
+            u = u + 2;
+            if (v<(2*e)) {y--; e=e-v; v=v-2;}
         }
         
            

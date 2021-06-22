@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package algcircincsem;
+package algcircbres;
 
 import javax.swing.JFrame;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
@@ -19,7 +19,7 @@ public class Janela extends JFrame {
         
         this.add(new Desenha());
         
-        this.setTitle("Algoritmo de Circunferências - Incremental com Simetria");
+        this.setTitle("Algoritmo de Circunferências - Bresenham");
         this.setSize(300,300);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
