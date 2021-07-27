@@ -19,7 +19,7 @@
 - [x] Criar em java uma matriz de pontos
 - [x] Desenhar a matriz de pontos
 - [x] Criar uma matriz de transformação
-- [x] Aplicar a aplicar a matriz resultante
+- [x] Aplicar a matriz resultante
 
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
  
