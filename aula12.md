@@ -1,6 +1,6 @@
 ## Aula 12 - Computação Gráfica
 
-> Aula - Computação Gráfica
+> Aula 03/08/2021 - Computação Gráfica
 > Atividades da aula - roteiro
 
 ## Implementação de Algoritmos para demonstração das transformações geométricas
