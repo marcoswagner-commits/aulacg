@@ -13,7 +13,7 @@
 
 
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/1c9aef018249c95479398ea3e954ce697592ff8d/ApostilaCG2021_Modulo2.pdf)
 
 ### Passo 1: Implementar o algoritmo para demonstrar a transformação geométrica de Escala
 - [x] Criar em java uma matriz de pontos
