@@ -7,7 +7,8 @@
 
 ![anima_escala](https://user-images.githubusercontent.com/81576640/127195708-b8ebfbe9-8e3d-4129-89d3-9d6e7a28ba6c.gif)
 
-![trans-anim](https://user-images.githubusercontent.com/81576640/127195717-1e09c977-f5d6-4faa-bb76-a45ec24bc525.gif)
+![trans-anim](https://user-images.githubusercontent.com/81576640/127233348-614706ab-b22c-45d0-9953-3fd8b289ef54.gif)
+
 
 ![Rot-anim](https://user-images.githubusercontent.com/81576640/127195715-948dd0d6-af93-46bf-9eb9-c5e05bd7c7cb.gif)
 
