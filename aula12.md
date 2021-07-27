@@ -1,4 +1,4 @@
-## Aula 10 - Computação Gráfica
+## Aula 12 - Computação Gráfica
 
 > Aula - Computação Gráfica
 > Atividades da aula - roteiro
