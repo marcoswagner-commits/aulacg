@@ -16,6 +16,7 @@ import javax.swing.JComponent;
 public class Desenha extends JComponent {
 
     int pixels[][];
+    int loop = 0;
     
     public Desenha() {
         pixels = new int[300][300];
@@ -26,7 +27,7 @@ public class Desenha extends JComponent {
         g.setColor(Color.red);
         poligono(g);
         g.setColor(Color.blue);
-        preVarred(g,150,150,200,200);
+        preVarred(g,150,150,210,210);
         g.setColor(Color.red);
         poligono(g);
         
@@ -41,6 +42,7 @@ public class Desenha extends JComponent {
             for(int x=xmin-1; x<=xmax+1; x++) {
                 if (liga) putPixel(g,x,y);
                 if((getPixel(g,x+1,y) > 0)&(getPixel(g,x+2,y)<1)) liga = !liga;
+                System.out.println(loop++);
                 
                 
             }
@@ -48,9 +50,12 @@ public class Desenha extends JComponent {
     }
     
     public void poligono(Graphics g) {
-        algBres(g,150,150,200,150);
-        algBres(g,200,150,200,200);
-        algBres(g,200,200,150,200);
+         algBres(g,150,150,200,150);
+        algBres(g,200,150,210,180);
+        algBres(g,210,180,175,175);
+        algBres(g,175,175,185,210);
+        //algBres(g,200,150,200,200);
+        algBres(g,185,210,150,200);
         algBres(g,150,200,150,150);
     }
     

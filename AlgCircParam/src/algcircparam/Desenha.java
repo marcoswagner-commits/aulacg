@@ -29,6 +29,7 @@ public class Desenha extends JComponent {
     public void algParam(Graphics g, int raio) {
         int x, y;
         for (int ang=0; ang<360; ang++) {
+            System.out.println("Loops: "+ang);
             x = (int) (raio * Math.cos(Math.PI*ang/180));
             y = (int) (raio * Math.sin(Math.PI*ang/180));
             putPixel(g,x,y);
