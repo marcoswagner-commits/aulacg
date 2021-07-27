@@ -5,6 +5,13 @@
 
 ## Implementação de Algoritmos para demonstração das transformações geométricas
 
+![anima_escala](https://user-images.githubusercontent.com/81576640/127195708-b8ebfbe9-8e3d-4129-89d3-9d6e7a28ba6c.gif)
+
+![trans-anim](https://user-images.githubusercontent.com/81576640/127233348-614706ab-b22c-45d0-9953-3fd8b289ef54.gif)
+
+![Rot-anim](https://user-images.githubusercontent.com/81576640/127195715-948dd0d6-af93-46bf-9eb9-c5e05bd7c7cb.gif)
+
+
 - [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
 
 ### Passo 1: Implementar o algoritmo para demonstrar a transformação geométrica de Translação
