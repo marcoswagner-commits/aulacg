@@ -60,16 +60,12 @@
 - [x] Controle de cena
 - [x] Build do Jogo
 
-
-
-
-
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
  
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/5cfc010ea574a440df9f67195aa7c4f89b2efaf9/Capa_Aula_16-17.png)](https://www.youtube.com/watch?v=BOf0kEBVzYQ)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=BOf0kEBVzYQ)
 
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/5cfc010ea574a440df9f67195aa7c4f89b2efaf9/Capa_Aula_16-17.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
 
 
