@@ -16,10 +16,10 @@
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
  
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula9.png)](https://www.youtube.com/watch?v=BOf0kEBVzYQ)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/cc6e41c33250a44aa967125b80f7be78c95b68c3/Capa_Aula14-15.png)](https://www.youtube.com/watch?v=BOf0kEBVzYQ)
 
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/9a7a875a273c69f03b6048ea2138b963fd82fa7b/Capa_Aula9.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/cc6e41c33250a44aa967125b80f7be78c95b68c3/Capa_Aula14-15.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
 
 
 
