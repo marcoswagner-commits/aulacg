@@ -99,8 +99,11 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 08/07/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula11.md)
 - - [Roteiro específico da Aula - 13/07/2021] Apresentação de Trabalhos
 - - [Roteiro específico da Aula - 15/07/2021] Projeto de Prática em CG
-- [Roteiro específico da Aula - 03/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula8.md)
-- [Roteiro específico da Aula - 05/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula9.md)
+- [Roteiro específico da Aula - 03/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula12.md)
+- [Roteiro específico da Aula - 05/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula13.md)
 - - [Roteiro específico da Aula - 10/07/2021]UFJ Para Todos!
 - - [Roteiro específico da Aula - 12/07/2021]UFJ Para Todos!
+- [Roteiro específico da Aula - 17/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula14.md)
+- [Roteiro específico da Aula - 19/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula15.md)
+
 
