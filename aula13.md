@@ -12,7 +12,7 @@
 ![Rot-anim](https://user-images.githubusercontent.com/81576640/127195715-948dd0d6-af93-46bf-9eb9-c5e05bd7c7cb.gif)
 
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/79e8c86a418d2b1dfa9682b547de624f9e3c43a6/ApostilaCG2021_Modulo2.pdf)
 
 ### Passo 1: Implementar o algoritmo para demonstrar a transformação geométrica de Translação
 - [x] Criar em java uma matriz de pontos
