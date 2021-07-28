@@ -5,7 +5,7 @@
 
 ## Implementação de Algoritmo de Recorte de Retas Cohen-Sutherland
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/9975b088ca6fb64716755c43595c7281cf3b5d59/ApostilaCG2021_Modulo2.pdf)
 
 ### Passo 1: Implementar o algoritmo para demonstrar o algoritmo de Recorte de Retas Cohen-Sutherland
 - [x] Criar um mapeamento isotrópico com coordenas lógicas 0-10 para x e 0-7,5 para y
