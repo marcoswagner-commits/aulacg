@@ -11,7 +11,7 @@
 ![Splines_2](https://user-images.githubusercontent.com/81576640/127563599-e7575d56-6479-4e5f-8a67-64aa912eb75d.gif)
 
 
-### Passo 1: Implementar o algoritmo para demonstrar o algoritmo de Curvas de Bézier
+### Passo 1: Implementar o algoritmo que demonstre Curvas de B-Spline
 - [x] Criar um mapeamento isotrópico com coordenas lógicas 0-10 para x e 0-10 para y
 - [x] Criação de um retângulo de direcionamento dos pontos de controle
 - [x] Criar quatro pontos de controle iniciais para geração da primeira curva 
