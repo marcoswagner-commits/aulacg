@@ -15,7 +15,7 @@
 ### Passo 1: Implementar o algoritmo para demonstrar o algoritmo de Curvas de Bézier
 - [x] Criar um mapeamento isotrópico com coordenas lógicas 0-10 para x e 0-10 para y
 - [x] Criação de um retângulo de direcionamento dos pontos de controle
-- [x] Criar quatro pontos de ponto controle 
+- [x] Criar quatro pontos de controle 
 - [x] Criar função (método) recursivo que divida os segmentos em dois (pontos da geração da curva) 
 
 
