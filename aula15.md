@@ -11,7 +11,7 @@
 - [x] Criar um mapeamento isotrópico com coordenas lógicas 0-10 para x e 0-7,5 para y
 - [x] Gerar um retângulo inicial que será a base recorte do polígono
 - [x] Criar uma classe Ponto2D para gerir os pontos x e y
-- [x] Criar um polígono dinâmico com uso do mous
+- [x] Criar um polígono dinâmico com uso do mouse
 - [x] Criar um método clipPoly para verificação da posição dos pontos em relação aos lados do retângulo
 - [x] Criar um método para desenhar um retângulo de recorte
 
