@@ -13,8 +13,8 @@
 
 
 ### Passo 1: Implementar o algoritmo para demonstrar o algoritmo de Curvas de Bézier
-- [x] Criar um mapeamento isotrópico com coordenas lógicas 0-10 para x e 0-7,5 para y
-- [x] Criar um método clipLine para verificação da posição dos pontos extremos (vide contéudo)
+- [x] Criar um mapeamento isotrópico com coordenas lógicas 0-10 para x e 0-10 para y
+- [x] Geração de um retângulo de 75% de sua largura
 - [x] Criar um método para desenhar um retângulo de recorte
 
 
