@@ -21,8 +21,10 @@
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/cc6e41c33250a44aa967125b80f7be78c95b68c3/Capa_Aula14-15.png)](https://www.youtube.com/watch?v=i1OSeGl_V40)
 
 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/cc6e41c33250a44aa967125b80f7be78c95b68c3/Capa_Aula14-15.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/cc6e41c33250a44aa967125b80f7be78c95b68c3/Capa_Aula14-15.png)](https://www.youtube.com/watch?v=weyIdqPbIIQ)
 
+🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/cc6e41c33250a44aa967125b80f7be78c95b68c3/Capa_Aula14-15.png)](https://www.youtube.com/watch?v=weyIdqPbIIQ)
 
 
 :shipit: Código 1
