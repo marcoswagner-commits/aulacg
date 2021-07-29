@@ -5,7 +5,7 @@
 
 ## Implementação de Algoritmo de Recorte de Polígono Sutherland-Hodgman
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/3e7133004a04b725d1041a53c2f84f1cb1af16b9/ApostilaCG2021_Modulo2.pdf)
 
 ### Passo 1: Implementar o algoritmo para demonstrar o algoritmo de Recorte de Retas Cohen-Sutherland
 - [x] Criar um mapeamento isotrópico com coordenas lógicas 0-10 para x e 0-7,5 para y
