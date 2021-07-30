@@ -47,9 +47,13 @@
  - Movimento (Transformação Geométrica - Position)
  - Movimento por meio da "Física"
   - Analisando o componente Rigidbody (massa - gravidade - colisão)
-- [x] Jogadores
-- [x] Inputs
-
+- [x] Código (Script)
+ - Criando um Rigidbody no código (público e privado)
+  - Start - vinculando o Rigidbody
+  - FixedUpdate - adicionando força (x,y,z)  
+  - Controlando a velocidade (inputs)
+  
+  
 ### Passo 4: Câmeras
 - [x] Câmera
 - [x] Cenário
