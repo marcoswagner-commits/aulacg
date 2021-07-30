@@ -39,8 +39,14 @@
 - [x] Funções
 - [x] Controle (if-else - loops)
 
+🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=jGbjqzE5cH8)
+
 ### Passo 3: Movimentos
 - [x] Componentes
+ - Movimento (Transformação Geométrica - Position)
+ - Movimento por meio da "Física"
+  - Analisando o componente Rigidbody (massa - gravidade - colisão)
 - [x] Jogadores
 - [x] Inputs
 
@@ -82,7 +88,6 @@
  
 
 
-🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
+
 
 
