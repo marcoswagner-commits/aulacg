@@ -11,9 +11,14 @@
 
 ### Passo 1: Introdução
 - [x] Instalação [↪️](https://unity3d.com/pt/get-unity/download)
-- [x] Primeiro projeto
+ - Instalação do UnityHub
+- [x] Primeiro projeto (2D/3D)
+ - AulaCG2021
 - [x] Layout (telas)
-- [x] Layout (telas)
+ - Scene, Game, Project, Inspector, Hierarchy
+- [x] Primeiros Comandos
+ - GameObject (
+ - alt-c1, alt-c2, alt-c3, f
 - [x] GameObject 
 
 ### Passo 2: Programação
