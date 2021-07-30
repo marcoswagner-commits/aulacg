@@ -24,9 +24,17 @@
 - [x] Materiais
  - Primeiro jogador (personagem) e primeiro plano  
 
+🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=lpSgS96B50k)
 
 ### Passo 2: Programação
 - [x] Scripts
+ - Criar uma pasta de Scripts
+ - Criar um script
+ - Vincular script ao componente
+  - Abrir script no Visual Studio Code
+  - Analisar o código
+   - name_spaces; classes : MonoBehaviour; funções (Start e Update) 
 - [x] Variáveis
 - [x] Funções
 - [x] Controle (if-else - loops)
@@ -72,8 +80,7 @@
 
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
  
-🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=BOf0kEBVzYQ)
+
 
 🎬
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=f86Fw8OHDHk)
