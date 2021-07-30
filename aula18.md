@@ -17,10 +17,9 @@
 - [x] Layout (telas)
  - Scene, Game, Project, Inspector, Hierarchy
 - [x] Primeiros Comandos
- - GameObject (
- - alt-c1, alt-c2, alt-c3, f
-- [x] GameObject
+ - GameObject 
  - Geometrias Primitiva
+- alt-c1, alt-c2, alt-c3, f
 - [x] Tranformações (Move, Rotate, Scale) - Gizmos e Manipulação
 - [x] Materiais
  - Primeiro jogador (personagem) e primeiro plano  
