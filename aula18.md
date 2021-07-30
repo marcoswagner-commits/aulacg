@@ -19,7 +19,12 @@
 - [x] Primeiros Comandos
  - GameObject (
  - alt-c1, alt-c2, alt-c3, f
-- [x] GameObject 
+- [x] GameObject
+ - Geometrias Primitiva
+- [x] Tranformações (Move, Rotate, Scale) - Gizmos e Manipulação
+- [x] Materiais
+ - Primeiro jogador (personagem) e primeiro plano  
+
 
 ### Passo 2: Programação
 - [x] Scripts
