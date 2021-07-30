@@ -8,8 +8,9 @@
 - [Conteúdo do Curso - Material sugerido](https://profsalu.files.wordpress.com/2018/08/2-unity-3d-apresentac3a7c3a3o.pdf)
 
 
+
 ### Passo 1: Introdução
-- [x] Instalação
+- [x] Instalação [↪️](https://unity3d.com/pt/get-unity/download)
 - [x] Primeiro projeto
 - [x] Layout (telas)
 - [x] Layout (telas)
