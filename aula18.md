@@ -54,6 +54,7 @@
   - FixedUpdate - adicionando força (x,y,z)  
   - Controlando a velocidade (inputs)
    - InputManager (GetAxis)
+  - Editando inputs(Project Settings - Inputs)
   
   
 ### Passo 4: Câmeras
