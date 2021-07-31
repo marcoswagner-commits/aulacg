@@ -55,7 +55,9 @@
   - Controlando a velocidade (inputs)
    - InputManager (GetAxis)
   - Editando inputs(Project Settings - Inputs)
-  
+
+🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=i_1jef-1pgQ)
   
 ### Passo 4: Câmeras
 - [x] Câmera
