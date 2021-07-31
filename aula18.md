@@ -69,9 +69,10 @@
 - [x] Level Controller
 - [x] Singleton
 
-### Passo 7: Câmeras
-- [x] Câmera
-- [x] Cenário
+### Passo 7: Animação
+- [x] Import de Assets
+- [x] Configuração de Animações
+- [x] Animação via script
 
 ### Passo 8: Iluminação
 - [x] NavMesh
