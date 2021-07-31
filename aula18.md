@@ -53,6 +53,7 @@
   - Associar o Rigidbody pelo método Start (GetComponent<Rigidbody>)
   - FixedUpdate - adicionando força (x,y,z)  
   - Controlando a velocidade (inputs)
+   - InputManager (GetAxis)
   
   
 ### Passo 4: Câmeras
