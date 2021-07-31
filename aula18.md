@@ -46,7 +46,7 @@
 - [x] Componentes
  - Movimento (Transformação Geométrica - Position)
  - Movimento por meio da "Física"
-  - Analisando o componente Rigidbody (massa - gravidade - colisão)
+  - Analisando o componente Rigidbody (massa - arrasto - gravidade - colisão)
 - [x] Código (Script)
  - Criando um Rigidbody no código (público e privado)
   - Start - vinculando o Rigidbody
