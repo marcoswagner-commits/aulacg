@@ -49,7 +49,8 @@
   - Analisando o componente Rigidbody (massa - arrasto - gravidade - colisão)
 - [x] Código (Script)
  - Criando um Rigidbody no código (público e privado)
-  - Start - vinculando o Rigidbody
+  - Associar o Rigidbody pela Unity
+  - Associar o Rigidbody pelo método Start (GetComponent<Rigidbody>)
   - FixedUpdate - adicionando força (x,y,z)  
   - Controlando a velocidade (inputs)
   
