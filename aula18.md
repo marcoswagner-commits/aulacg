@@ -145,35 +145,7 @@ public class Jogador : MonoBehaviour
 
 #### Script
  ```
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
 
-public class Jogador : MonoBehaviour
-{
-    Rigidbody rg;
-
-    public float velocidade;
-     
-    // Start is called before the first frame update
-    void Start()
-    {
-       rg = GetComponent<Rigidbody>();
-    }
-    // Update is called once per frame
-    void Update()
-    {
-       
-    }
-
-    private void FixedUpdate() 
-    {
-      float horizontal = Input.GetAxis("Horizontal");
-      float vertical = Input.GetAxis("Vertical");
-      Vector3 movimento =  new Vector3(horizontal,0,vertical);
-      rg.AddForce( movimento * velocidade);
-    }
-}
  ``` 
  
 ### Passo 5: Interação
