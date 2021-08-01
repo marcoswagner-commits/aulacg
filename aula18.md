@@ -175,6 +175,7 @@ public class CameraController : MonoBehaviour
  ``` 
  
 ### Passo 5: Interação
+- [x] Colocando texturas
 - [x] Criando outros itens
   - Criando animação via script para os itens
   - Usando o deltaTime para controlar a animação
