@@ -176,10 +176,20 @@ public class CameraController : MonoBehaviour
  
 ### Passo 5: Interação
 - [x] Criando outros itens
+  - Criando animação via script para os itens
+  - Usando o deltaTime para controlar a animação
 - [x] Prefab 
+   - Criando uma pasta Prefabs
+   - Duplicando os itens
+   - Tirando a colisão dos itens
+   - Habilitando gatilho para os itens
 - [x] Colisão
-- [x] Objeto via tag
-- [x] Objeto via componente
+  - Criar método onTriggerEnter para colisão do jogador com os itens
+ - [x] Objeto via tag
+  - Identificando o objeto via tag
+  - Criando uma nova tag
+  - Comparando uma tag encontrada ("CompareTag")
+
 
 ### Passo 6: Interface com o Usuário (UI)
 - [x] Interface de usuário
