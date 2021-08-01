@@ -141,11 +141,37 @@ public class Jogador : MonoBehaviour
  - Criando cubos para limitar o cenário do jogo
  
  🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=i_1jef-1pgQ)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=QWNwRi6Pv68)
 
 #### Script
  ```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
+public class CameraController : MonoBehaviour
+{
+
+    public Transform player;
+    private Vector3 offset;
+    // Start is called before the first frame update
+    void Start()
+    {
+        offset = transform.position - player.position;
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+              
+    }
+
+    private void LateUpdate() {
+      transform.position = player.position + offset;
+    }
+}
+
+ 
  ``` 
  
 ### Passo 5: Interação
