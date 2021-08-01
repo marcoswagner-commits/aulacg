@@ -175,7 +175,8 @@ public class CameraController : MonoBehaviour
  ``` 
  
 ### Passo 5: Interação
-- [x] Coletável e Prefab
+- [x] Criando outros itens
+- [x] Prefab 
 - [x] Colisão
 - [x] Objeto via tag
 - [x] Objeto via componente
