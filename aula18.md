@@ -405,10 +405,3 @@ public class NivelController : MonoBehaviour
 - [x] Controle de cena
 - [x] Build do Jogo
 
-- Veja o vídeo abaixo que mostra a implementação dos algoritmos
- 
-
-
-
-
-
