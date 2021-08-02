@@ -187,14 +187,15 @@ public class CameraController : MonoBehaviour
 - [x] Prefab 
    - Criando uma pasta Prefabs
    - Duplicando os itens
-   - Tirando a colisão dos itens
+   - Tirando a colisão dos itens (Is Trigger)
    - Habilitando gatilho para os itens
 - [x] Colisão
   - Criar método onTriggerEnter para colisão do jogador com os itens
- - [x] Objeto via tag
+- [x] Objeto via tag
   - Identificando o objeto via tag
   - Criando uma nova tag
   - Comparando uma tag encontrada ("CompareTag")
+- [x] Criando um efeito para o jogador (Trail Renderer)
 
 
 ### Passo 6: Interface com o Usuário (UI)
