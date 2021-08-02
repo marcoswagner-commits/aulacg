@@ -176,7 +176,11 @@ public class CameraController : MonoBehaviour
  
 ### Passo 5: Interação
 - [x] Colocando texturas
+ - Colocar textura para o jogador
+ - Colocar textura para o chão
 - [x] Criando outros itens
+  - Criar um objeto com o nome item (cube)
+  - Definir material para o objeto
   - Criando animação via script para os itens
   - Usando o deltaTime para controlar a animação
 - [x] Prefab 
