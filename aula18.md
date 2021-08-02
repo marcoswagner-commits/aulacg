@@ -198,10 +198,84 @@ public class CameraController : MonoBehaviour
 - [x] Criando um efeito para o jogador (Trail Renderer)
 
 
+  🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=nWZuEtOQCg4)
+ 
+#### Script Jogador
+ ```
+using System.Globalization;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Jogador : MonoBehaviour
+{
+    Rigidbody rg;
+
+    public float velocidade;
+
+    public GameObject Item_Particula;
+     
+    // Start is called before the first frame update
+    void Start()
+    {
+       rg = GetComponent<Rigidbody>();
+       
+    }
+
+     // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    private void FixedUpdate() 
+    {
+      float horizontal = Input.GetAxis("Horizontal");
+      float vertical = Input.GetAxis("Vertical");
+      Vector3 movimento =  new Vector3(horizontal,0,vertical);
+      rg.AddForce( movimento * velocidade);
+    }
+
+    private void OnTriggerEnter(Collider other) {
+      if (other.gameObject.CompareTag("item")) {
+        Instantiate(Item_Particula, other.gameObject.transform.position, Quaternion.identity);
+        Destroy(other.gameObject);
+      }
+    }
+}
+
+ 
+ ``` 
+ 
+ #### Script GiraItem
+ ```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class GiraItem : MonoBehaviour
+{
+    // Update is called once per frame
+    void Update()
+    {
+        transform.Rotate(new Vector3(15,30,45) * Time.deltaTime);
+    }
+}
+
+ 
+ ``` 
+ 
+ 
 ### Passo 6: Interface com o Usuário (UI)
 - [x] Interface de usuário
-- [x] Level Controller
+  - Criar três textos (Total de Itens - Itens Coletados - Fase Completa)
+ - [x] Nível Controller
+  - Criar um gameObject NivelController
+  - Criar um script NivelController
+  - Atualizando os textos
 - [x] Singleton
+  - Usando padrão de instância única para acessar o NivelController.
 
 ### Passo 7: Animação
 - [x] Import de Assets
