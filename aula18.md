@@ -383,9 +383,9 @@ public class NivelController : MonoBehaviour
  
  ``` 
  
- 
 ### Passo 7: Animação
 - [x] Import de Assets
+  - Window - 
 - [x] Configuração de Animações
 - [x] Animação via script
 
