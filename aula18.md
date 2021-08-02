@@ -183,6 +183,7 @@ public class CameraController : MonoBehaviour
   - Definir material para o objeto
   - Criando animação via script para os itens
   - Usando o deltaTime para controlar a animação
+  - Criando um efeito para o item
 - [x] Prefab 
    - Criando uma pasta Prefabs
    - Duplicando os itens
