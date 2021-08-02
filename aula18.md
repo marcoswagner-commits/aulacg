@@ -385,8 +385,9 @@ public class NivelController : MonoBehaviour
  
 ### Passo 7: Animação
 - [x] Import de Assets
-  - Window - 
+  - https://assetstore.unity.com
 - [x] Configuração de Animações
+  - https://mixamo.com
 - [x] Animação via script
 
 ### Passo 8: Iluminação
