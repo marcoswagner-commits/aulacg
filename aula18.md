@@ -275,8 +275,115 @@ public class GiraItem : MonoBehaviour
   - Criar um script NivelController
   - Atualizando os textos
 - [x] Singleton
-  - Usando padrão de instância única para acessar o NivelController.
+  - Usando padrão de instância única para acessar o NivelController
+ 
+🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=nW48-mLMByw)
+ 
+#### Script Jogador
+ ```
 
+using System.Runtime.InteropServices;
+using System.Globalization;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Jogador : MonoBehaviour
+{
+    Rigidbody rg;
+    public float velocidade;
+    public GameObject Item_Particula;
+    
+      
+    // Start is called before the first frame update
+    void Start()
+    {
+       rg = GetComponent<Rigidbody>();
+       
+    }
+
+     // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    private void FixedUpdate() 
+    {
+      float horizontal = Input.GetAxis("Horizontal");
+      float vertical = Input.GetAxis("Vertical");
+      Vector3 movimento =  new Vector3(horizontal,0,vertical);
+      rg.AddForce( movimento * velocidade);
+    }
+
+    private void OnTriggerEnter(Collider other) {
+      if (other.gameObject.CompareTag("item")) {
+        Instantiate(Item_Particula, other.gameObject.transform.position, Quaternion.identity);
+        Destroy(other.gameObject);
+        NivelController.instance.SetItensColetados();
+      }
+    }
+}
+
+ 
+ ``` 
+ 
+ #### Script NivelController
+ ```
+
+using System.Diagnostics;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class NivelController : MonoBehaviour
+{
+    public static NivelController instance;
+
+    public int totalitens;
+
+    public Text textoPontos;
+    public Text textoTotal;
+    public GameObject textoFinal;
+
+    private int itenscoletados;
+
+   void Awake()
+    {
+      instance = this;
+        
+    }
+   // Start is called before the first frame update
+    void Start()
+    {
+        textoFinal.SetActive(false);
+        textoPontos.text = "Itens Coletados: 0" + itenscoletados;
+    }
+
+    public void SetItensColetados() 
+    {
+      itenscoletados++;
+
+      textoPontos.text = "Itens Coletados: 0" + itenscoletados.ToString();
+
+      if (itenscoletados >= totalitens) {textoFinal.SetActive(true);}
+      
+      
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+ 
+ 
+ ``` 
+ 
+ 
 ### Passo 7: Animação
 - [x] Import de Assets
 - [x] Configuração de Animações
