@@ -386,10 +386,93 @@ public class NivelController : MonoBehaviour
 ### Passo 7: Animação
 - [x] Import de Assets
   - https://assetstore.unity.com
+  - Importar via Package Manager (Jammo_LowPoly)
 - [x] Configuração de Animações
-  - https://mixamo.com
+  - Associar Animator_Controller_Jamo ao Personagem
+  - Abrir Animator (Window - Animation - Animator)
+  - Colocar as animações Idle, Running, Victory Idle
+  - Excluir outras animações
+  - Criar transição entre Idle e Running (ida e volta) - Make Transition
+  - Criar parâmetro "run" e aplicar nas condições das transições
+  - Desmarcar opção Has Exit Time
 - [x] Animação via script
+  - Transformar o personagem em Jogador
+  - Adicionar script Jogador - componente Rigidbody - componente Capsule Collider (ajustar...)
+  - Adequar o código do jogador para movimento (parado e correndo)
+  - Adequar orientação do jogador (usar Quaternion.LookRotation)
 
+ 
+ #### Script Jogador
+ ```
+
+ 
+using System.Runtime.InteropServices;
+using System.Globalization;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Jogador : MonoBehaviour
+{
+   Rigidbody rg;
+   public float velocidade;
+   public GameObject Item_Particula;
+   Animator an;
+   
+     
+   // Start is called before the first frame update
+   void Start()
+   {
+      rg = GetComponent<Rigidbody>();
+      an = GetComponent<Animator>();
+      
+   }
+
+    // Update is called once per frame
+   void Update()
+   {
+       
+   }
+
+   private void FixedUpdate() 
+   {
+     float horizontal = Input.GetAxis("Horizontal");
+     float vertical = Input.GetAxis("Vertical");
+
+      if(horizontal != 0 || vertical != 0) 
+      {
+        an.SetBool("run",true);
+      }
+      else
+      {
+        an.SetBool("run",false);
+      }
+
+      Vector3 movimento =  new Vector3(horizontal,0,vertical);
+
+      if (movimento != Vector3.zero) 
+        {
+          transform.rotation = Quaternion.LookRotation(movimento);
+        }
+ 
+      rg.AddForce( movimento * velocidade);
+   }
+
+   private void OnTriggerEnter(Collider other) {
+     if (other.gameObject.CompareTag("Item")) {
+       Instantiate(Item_Particula, other.gameObject.transform.position, Quaternion.identity);
+       Destroy(other.gameObject);
+       NivelController.instance.SetItensColetados();
+    }
+   }
+}
+
+
+
+
+ 
+ ``` 
+ 
 ### Passo 8: Iluminação
 - [x] NavMesh
 - [x] Comportamentos
