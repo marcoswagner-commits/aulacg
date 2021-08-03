@@ -401,11 +401,11 @@ public class NivelController : MonoBehaviour
   - Adequar o código do jogador para movimento (parado e correndo)
   - Adequar orientação do jogador (usar Quaternion.LookRotation)
 
+  🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=dHwMjHzQ7n8)
  
  #### Script Jogador
  ```
-
- 
 using System.Runtime.InteropServices;
 using System.Globalization;
 using System.Collections;
@@ -414,63 +414,59 @@ using UnityEngine;
 
 public class Jogador : MonoBehaviour
 {
-   Rigidbody rg;
-   public float velocidade;
-   public GameObject Item_Particula;
-   Animator an;
-   
-     
-   // Start is called before the first frame update
-   void Start()
-   {
-      rg = GetComponent<Rigidbody>();
-      an = GetComponent<Animator>();
+    Rigidbody rg;
+    Animator animator;
+    public float velocidade;
+    public GameObject Item_Particula;
+    
       
-   }
-
-    // Update is called once per frame
-   void Update()
-   {
+    // Start is called before the first frame update
+    void Start()
+    {
+       rg = GetComponent<Rigidbody>();
+       animator = GetComponent<Animator>();
        
-   }
+    }
 
-   private void FixedUpdate() 
-   {
-     float horizontal = Input.GetAxis("Horizontal");
-     float vertical = Input.GetAxis("Vertical");
+     // Update is called once per frame
+    void Update()
+    {
+        
+    }
 
-      if(horizontal != 0 || vertical != 0) 
+    private void FixedUpdate() 
+    {
+      float horizontal = Input.GetAxis("Horizontal");
+      float vertical = Input.GetAxis("Vertical");
+
+      if (horizontal  != 0 || vertical != 0) 
       {
-        an.SetBool("run",true);
+          animator.SetBool("run", true);
       }
       else
       {
-        an.SetBool("run",false);
+          animator.SetBool("run", false);
       }
 
       Vector3 movimento =  new Vector3(horizontal,0,vertical);
 
-      if (movimento != Vector3.zero) 
-        {
-          transform.rotation = Quaternion.LookRotation(movimento);
-        }
- 
-      rg.AddForce( movimento * velocidade);
-   }
+      if (movimento != Vector3.zero)
+        transform.rotation = Quaternion.LookRotation(movimento);
 
-   private void OnTriggerEnter(Collider other) {
-     if (other.gameObject.CompareTag("Item")) {
-       Instantiate(Item_Particula, other.gameObject.transform.position, Quaternion.identity);
-       Destroy(other.gameObject);
-       NivelController.instance.SetItensColetados();
+      rg.AddForce( movimento * velocidade);
     }
-   }
+
+    private void OnTriggerEnter(Collider other) {
+      if (other.gameObject.CompareTag("item")) {
+        Instantiate(Item_Particula, other.gameObject.transform.position, Quaternion.identity);
+        Destroy(other.gameObject);
+        NivelController.instance.SetItensColetados();
+      }
+    }
 }
 
- ``` 
 
- 🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=dHwMjHzQ7n8)
+ ``` 
 
  
 ### Passo 8: Iluminação
