@@ -1,6 +1,6 @@
 ## Aula 18 - Computação Gráfica
 
-> Aula - Computação Gráfica
+> Aula 02/09/2021 a 16/09/2021 - Computação Gráfica
 > Atividades da aula - roteiro
 
 ## Engine Gráfica Unity3D
