@@ -401,7 +401,7 @@ public class NivelController : MonoBehaviour
   - Adequar o código do jogador para movimento (parado e correndo)
   - Adequar orientação do jogador (usar Quaternion.LookRotation)
 
-  🎬
+🎬
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=dHwMjHzQ7n8)
  
  #### Script Jogador
@@ -487,6 +487,9 @@ public class Jogador : MonoBehaviour
    - Criar um conjunto de pontos no cenário (Points)
 - [x] Configurar jogador para comemorar vitória
 - [x] Configurar inimigo para atacar
+
+🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=uwji4t-8IoA)
 
  
 #### Script Jogador
@@ -687,7 +690,16 @@ public class NivelController : MonoBehaviour
  ```  
  
 ### Passo 9: Audios
-- [x] Audio Source e via script
+- [x] Audio Source 
+ - Importando o audio de um pacote
+ - Criar um objeto vazio
+ - "Resetar" o transform
+ - Colocar um componente "Audio Source"
+ - Vincular o audio "ambiente" ao componente
+ - Diminuir o volume
+ - Marcar a opção Play on Awake
+- [x] Audio via script
+ 
 - [x] Cinemachine
 - [x] Timeline
 
