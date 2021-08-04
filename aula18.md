@@ -801,7 +801,7 @@ public class Jogador : MonoBehaviour
 
  
  🎬
-[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=UUmpPt_xg8U)
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=q0mDs_V55KE)
 
  
 #### Script Jogador
@@ -816,11 +816,12 @@ public class Jogador : MonoBehaviour
 {
     private Rigidbody rg;
     private Animator animator;
-    private AudioSource audio;
+    private AudioSource audioSource;
     public float velocidade;
     public GameObject Item_Particula;
     private  bool isDead;
     public AudioClip itens, win, dead;
+    public  string scene;
     
       
     // Start is called before the first frame update
@@ -828,7 +829,7 @@ public class Jogador : MonoBehaviour
     {
        rg = GetComponent<Rigidbody>();
        animator = GetComponent<Animator>();
-       audio = GetComponent<AudioSource>();
+       audioSource = GetComponent<AudioSource>();
        
     }
 
@@ -878,19 +879,59 @@ public class Jogador : MonoBehaviour
 
     private void Death() {
       isDead = true;
-      Destroy(gameObject);
       PlayAudio(dead);
+      this.gameObject.SetActive(false);
+      Invoke("ReloadScene", 3F);
+      
     }
 
     private void Win() {
       animator.SetBool("win", true);
       PlayAudio(win);
+      Invoke("LoadScene", 3F);
     }
 
     private void PlayAudio(AudioClip clip) {
-      audio.clip = clip;
-      audio.Play();
+      audioSource.clip = clip;
+      audioSource.Play();
+    }
+
+    private void RelaoadScene() {
+      SceneController.instance.ReloadScene();
+    }
+
+    private void LoadScene() {
+      SceneController.instance.LoadScene(scene);
     }
 }
 
-```  
+
+``` 
+ 
+ 
+#### Script SceneController
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class SceneController : MonoBehaviour
+{
+    public static SceneController instance;
+
+    private void Awake() {
+      instance = this;
+    }
+
+    public void LoadScene(string scene) {
+      SceneManager.LoadScene(scene);
+    }
+
+    public void ReloadScene() {
+      SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+}
+
+
+``` 
