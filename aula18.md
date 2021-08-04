@@ -468,7 +468,7 @@ public class Jogador : MonoBehaviour
 
  ``` 
  
-### Passo 8: Inimigo, NavMesh e Iluminação
+### Passo 8: Inimigo e NavMesh
 - [x] Importando um "inimigo"
  - https://assetstore.unity.com
   - Importar via Package Manager (Fantasy Monster - Skeleton)
@@ -686,7 +686,7 @@ public class NivelController : MonoBehaviour
 
  ```  
  
-### Passo 9: Iluminação e Audios
+### Passo 9: Audios
 - [x] Audio Source e via script
 - [x] Cinemachine
 - [x] Timeline
