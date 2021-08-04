@@ -494,8 +494,6 @@ public class Jogador : MonoBehaviour
  
 #### Script Jogador
  ```
-
- 
 using System.Runtime.InteropServices;
 using System.Globalization;
 using System.Collections;
@@ -576,10 +574,6 @@ public class Jogador : MonoBehaviour
      an.SetBool("win",true);
    }
 }
-
-
-
-
  ```  
  
  #### Script Inimigo
@@ -622,12 +616,10 @@ public class Inimigo : MonoBehaviour
    }
 }
 
-
  ```  
  
  #### Script NivelController
  ```
-
 using System.Diagnostics;
 using System.Collections;
 using System.Collections.Generic;
@@ -683,10 +675,6 @@ public class NivelController : MonoBehaviour
        
    }
 }
-
-
-
-
  ```  
  
 ### Passo 9: Audios
@@ -706,6 +694,100 @@ public class NivelController : MonoBehaviour
    - audioSource.clip = clip // auditoSource.Play();
   - Criar um vínculo com os métodos de vitória, morte, itens coletados
  
+ 🎬
+[![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=UUmpPt_xg8U)
+
+ 
+#### Script Jogador
+```
+using System.Runtime.InteropServices;
+using System.Globalization;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Jogador : MonoBehaviour
+{
+    private Rigidbody rg;
+    private Animator animator;
+    private AudioSource audio;
+    public float velocidade;
+    public GameObject Item_Particula;
+    private  bool isDead;
+    public AudioClip itens, win, dead;
+    
+      
+    // Start is called before the first frame update
+    void Start()
+    {
+       rg = GetComponent<Rigidbody>();
+       animator = GetComponent<Animator>();
+       audio = GetComponent<AudioSource>();
+       
+    }
+
+     // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    private void FixedUpdate() 
+    {
+      if (isDead) return; 
+
+      float horizontal = Input.GetAxis("Horizontal");
+      float vertical = Input.GetAxis("Vertical");
+
+      if (horizontal  != 0 || vertical != 0) 
+      {
+          animator.SetBool("run", true);
+      }
+      else
+      {
+          animator.SetBool("run", false);
+      }
+
+      Vector3 movimento =  new Vector3(horizontal,0,vertical);
+
+      if (movimento != Vector3.zero)
+        transform.rotation = Quaternion.LookRotation(movimento);
+
+      rg.AddForce( movimento * velocidade);
+    }
+
+    private void OnTriggerEnter(Collider other) {
+      if (other.gameObject.CompareTag("item")) {
+        Instantiate(Item_Particula, other.gameObject.transform.position, Quaternion.identity);
+        Destroy(other.gameObject);
+        NivelController.instance.SetItensColetados();
+        PlayAudio(itens);
+        if (NivelController.instance.GetWin()) Win();
+      }
+      else if (other.gameObject.CompareTag("Inimigo")) {
+        Instantiate(Item_Particula, other.gameObject.transform.position, Quaternion.identity);
+        Death();
+      }
+    }
+
+    private void Death() {
+      isDead = true;
+      Destroy(gameObject);
+      PlayAudio(dead);
+    }
+
+    private void Win() {
+      animator.SetBool("win", true);
+      PlayAudio(win);
+    }
+
+    private void PlayAudio(AudioClip clip) {
+      audio.clip = clip;
+      audio.Play();
+    }
+}
+
+```  
 
 ### Passo 10: Build
 - [x] Layers
