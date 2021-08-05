@@ -164,105 +164,96 @@ public class TransfGeo extends JFrame {
 
 
 
-:shipit: Código 2 com Rotação
+:shipit: Código Final  com Rotação
 ```
-
-
-
 package transfgeo;
 
+import java.awt.Canvas;
 import java.awt.Cursor;
 import java.awt.Graphics;
 import java.awt.Polygon;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-import javax.swing.JComponent;
 import javax.swing.JFrame;
 
-
 public class TransfGeo extends JFrame {
- 
+
     public static void main(String[] args) {
-       new TransfGeo();
+        new TransfGeo();
     }
     
     TransfGeo() {
-        this.setTitle("Algoritmo de Transformações Geométricas");
+        this.setTitle("Algorimto de Transformações Geométricas");
         this.setSize(600,400);
-        this.add("Center",new TransformaGeo());
+        this.add("Center",new TranformaGeo());
         this.setCursor(Cursor.getPredefinedCursor(Cursor.CROSSHAIR_CURSOR));
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setVisible(true);
     }
 
-    private static class TransformaGeo extends JComponent {
+    private static class TranformaGeo extends Canvas {
         Polygon poly;
-        double tx=1, ty=1, ang=0.1;
+        double tx=10, ty=10, ang=0.1;
         double mi[][];
         double mt[][];
         double mr[][];
-        int li, ci, lt,ct;
+        int li, ci, lt, ct;
         
-        public TransformaGeo() {
+        
+        public TranformaGeo() {
             iniciaMatrizes();
             addMouseListener(new MouseAdapter () {
                 public void mousePressed(MouseEvent evt) {
                     if (evt.getButton() == MouseEvent.BUTTON1)
-                    { transformaEscala();}
+                        transformaEscala();
                     else if (evt.getButton() == MouseEvent.BUTTON2)
-                    { transformaTranslada(); tx=tx+1; ty=ty+1;}
+                        transformaTranslada();
                     else if (evt.getButton() == MouseEvent.BUTTON3)
-                    { transformaRotacao(); ang=ang+0.1;}
+                        transformaRotacao();
+                    
                     repaint();
-                   }
+                }
             });
         }
         
         private void iniciaMatrizes() {
             poly = new Polygon();
+            li = 3; ci = 2;
             
-            li = 3; ci =2;
             mi = new double[li][ci];
             mi[0][0] = 150; mi[0][1] = 100;
             mi[1][0] = 20; mi[1][1] = 200;
             mi[2][0] = 120; mi[2][1] = 200;
             
-                    
-
+            for(int i=0;i<li;i++) poly.addPoint((int)mi[i][0],(int)mi[i][1]);
+            
         }
+        
         public void transformaEscala() {
             lt = 2; ct = 2;
             mt = new double[lt][ct];
-            mt[0][0] = (double) 1.5; mt[0][1] = (double) 0;
-            mt[1][0] = (double) 0; mt[1][1] = (double) 1.5;
+            mt[0][0] = (double) 1.5; mt[0][1] = (double) 0.0;
+            mt[1][0] = (double) 0.0; mt[1][1] = (double) 1.5;
             
             mr = new double[li][ct];
+            for (int i =0; i<li; i++) 
+                for(int j=0; j<ci; j++)
+                    mr[i][j] = (mi[i][0] * mt[0][j]) + (mi[i][1] * mt[1][j]);
+                                    
+            pushMatrix();
             
-            mr[0][0] =(mi[0][0] * mt[0][0]) + (mi[0][1] * mt[0][1]);
-            mr[0][1] =(mi[0][0] * mt[0][1]) + (mi[0][1] * mt[1][1]);
             
-            mr[1][0] =(mi[1][0] * mt[0][0]) + (mi[1][1] * mt[0][1]);
-            mr[1][1] =(mi[1][0] * mt[0][1]) + (mi[1][1] * mt[1][1]);
-            
-            mr[2][0] =(mi[2][0] * mt[0][0]) + (mi[2][1] * mt[0][1]);
-            mr[2][1] =(mi[2][0] * mt[0][1]) + (mi[2][1] * mt[1][1]);
-            
-           pushMatrix();
             
         }
         
         public void transformaTranslada() {
             mr = new double[li][ci];
             
-            mr[0][0] =(mi[0][0] + tx);
-            mr[0][1] =(mi[0][1] + ty);
-            
-            mr[1][0] =(mi[1][0] + tx);
-            mr[1][1] =(mi[1][1] + ty);
-            
-            mr[2][0] =(mi[2][0] + tx);
-            mr[2][1] =(mi[2][1] + ty);
+            for (int i=0; i<li; i++) {
+                mr[i][0] = (mi[i][0] + tx);
+                mr[i][1] = (mi[i][1] + ty);
+            }
             
             pushMatrix();
             
@@ -275,41 +266,32 @@ public class TransfGeo extends JFrame {
             double cos = Math.cos(ang);
             double sen = Math.sin(ang);
             
-            mr[0][0] =(mi[0][0] * cos) - (mi[0][1] * sen);
-            mr[0][1] =(mi[0][0] * sen) + (mi[0][1] * cos);
+            for (int i=0; i<li; i++) {
+                mr[i][0] = (mi[i][0] * cos) - (mi[i][1] * sen);
+                mr[i][1] = (mi[i][0] * sen) + (mi[i][1] * cos);
+            }
             
-            mr[1][0] =(mi[1][0] * cos) - (mi[1][1] * sen);
-            mr[1][1] =(mi[1][0] * sen) + (mi[1][1] * cos);
-            
-            mr[2][0] =(mi[2][0] * cos) - (mi[2][1] * sen);
-            mr[2][1] =(mi[2][0] * sen) + (mi[2][1] * cos);
-            
-           pushMatrix();
-            
+            pushMatrix();
         }
         
-        public void pushMatrix() {
+        /// transfere a matriz resultante para a matriz inicial
+        private void pushMatrix() {
             for(int i=0; i<li; i++)
-                for(int j=0; j<ci; j++)
+                for(int j=0;j<ci; j++)
                     mi[i][j] = mr[i][j];
+                       
         }
         
+        /// usa os recursos java (Graphics e Polígono) para gerar o gráfico 
         @Override
-        public void paint (Graphics g) {
+        public void paint(Graphics g) {
             poly = new Polygon();
-            for(int i=0;i<mi.length; i++) poly.addPoint((int)mi[i][0], (int)mi[i][1]);
+            for(int i=0;i<li;i++) poly.addPoint((int)mi[i][0],(int)mi[i][1]);
             g.fillPolygon(poly);
-            
         }
-
-        
     }
     
 }
-
-
-
-
 
 
 ```
