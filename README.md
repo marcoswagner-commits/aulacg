@@ -106,7 +106,7 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 17/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula14.md)
 - [Roteiro específico da Aula - 19/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula15.md)
 - [Roteiro específico da Aula - 24/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula16.md)
-- [Roteiro específico da Aula - 16/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula17.md)
+- [Roteiro específico da Aula - 26/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula17.md)
 - - [Roteiro específico da Aula - 31/08/2021] Apresentação de Trabalhos
 - [Roteiro específico da Aula - 02/09/2021 a 16/09/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula18.md)
 - - [Roteiro específico da Aula - 21/09/2021] Apresentação de Trabalhos
