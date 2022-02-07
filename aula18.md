@@ -32,6 +32,9 @@ O curso terá a seguinte estrutura:
 
 10 - Build
 
+![Captura de Tela 2022-02-07 às 14 48 51](https://user-images.githubusercontent.com/81576640/152843772-52fd5503-e118-45ae-baa9-4360e7e3c30d.png)
+
+
 
 
 
