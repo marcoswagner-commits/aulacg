@@ -13,15 +13,25 @@
 
 O curso terá a seguinte estrutura:
 1 - Introdução
+
 2 - Programação
+
 3 - Movimentos
+
 4 - Câmeras
+
 5 - Interação
+
 6 - Interface com o Usuário (UI)
+
 7 - Animação
+
 8 - Inimigo e NavMesh
+
 9 - Audios
+
 10 - Build
+
 
 
 
