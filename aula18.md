@@ -7,6 +7,22 @@
 
 - [Conteúdo do Curso - Material sugerido](https://profsalu.files.wordpress.com/2018/08/2-unity-3d-apresentac3a7c3a3o.pdf)
 
+	Este curso é uma introdução a Engine Gráfica de Modelagem Gráfica “Unity”. Uma engine que permite a construção de ambientes virtuais 2 e 3D, e, consequentemente possibilita a construção de jogos digitais (games), sejam pequenos e simples, ou, até mesmo grandes e complexos. Serão apresentados componentes básicos e essenciais desta ferramenta, comumente usados na maioria dos projetos. Será abordado desde instalação até a versão final de um jogo (build). Será usado como estudo de caso ou exemplo de aplicação o “Roll a Ball” um tutorial disponibilizado pela própria Unity (https://play.unity.com/mg/other/roll-a-ball-game-from-tutorial) e acrescentado algumas funcionalidades. Apesar de existirem vários projetos reconstruindo este tutorial, esta abordagem prima pelo uso de uma didática simples e acessel. Este projeto será construído com ênfase nos componentes 3D da ferramenta.
+
+	Recomenda-se este curso para interessados no desenvolvimento de jogos, e não há necessidade de já ter tido contato com a Unity. Sugere-se uma pequena preparação sobre alguns conceitos da Computação Gráfica e Programação de Computadores com uso de linguagem C#. No entanto, qualquer carência destas naturezas podem ser compensadas no próprio decorrer do curso com materiais complementares.
+
+O curso terá a seguinte estrutura:
+1 - Introdução
+2 - Programação
+3 - Movimentos
+4 - Câmeras
+5 - Interação
+6 - Interface com o Usuário (UI)
+7 - Animação
+8 - Inimigo e NavMesh
+9 - Audios
+10 - Build
+
 
 
 ### Passo 1: Introdução
