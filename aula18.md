@@ -34,7 +34,7 @@ O curso terá a seguinte estrutura:
 
 ![Captura de Tela 2022-02-07 às 14 48 51](https://user-images.githubusercontent.com/81576640/152843772-52fd5503-e118-45ae-baa9-4360e7e3c30d.png)
 
-🎬 Vídeo de Introdução
+🎬 Apresentação do Curso
 
 [![Vídeo de Introdução](https://github.com/marcoswagner-commits/projetos_cg/blob/aa3f6a6ace359cfac3b5b9f9758fb9c642fe950b/Capa_Aula_Unity3D.png)](https://www.youtube.com/watch?v=lpSgS96B50k)
 
