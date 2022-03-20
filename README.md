@@ -9,7 +9,8 @@
 
 
 ### 1.1 Conteúdos
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
+- [Conteúdo do Curso - Módulo 1](https://github.com/marcoswagner-commits/projetos_cg/files/8312409/ApostilaCG2021_Modulo1.pdf)
+- [Conteúdo do Curso - Módulo 2](https://github.com/marcoswagner-commits/projetos_cg/files/8312410/ApostilaCG2021_Modulo2.pdf)
 
 
 ### 1.2 Metodologia
