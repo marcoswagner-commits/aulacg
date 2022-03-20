@@ -88,9 +88,14 @@ Github – http://www.github.com
 - [Trabalho 2 - Unificação de Algoritmos](https://github.com/marcoswagner-commits/projetos_cg/blob/c43851b0470c70dadfadf5fc2094c03faeb22cdf/Trabalho2%20-%20CG.pdf)
 
 ### Aulas
-- [Roteiro específico da Aula - 22/03/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula1.md)
-- [Roteiro específico da Aula - 24/03/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula2.md)
-- [Roteiro específico da Aula - 10/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula3.md)
+- - [Roteiro específico da Aula - 22/03/2022] Apresentação da Disciplina
+- - [Roteiro específico da Aula - 24/03/2022] Principais Conceitos e Definições
+- - [Roteiro específico da Aula - 29/03/2022] Principais Conceitos e Definições
+- - [Roteiro específico da Aula - 31/03/2022] Trabalho 1 - Gamificação – Kahoot!
+
+- [Roteiro específico da Aula - 05/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula1.md)
+- [Roteiro específico da Aula - 07/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula2.md)
+- [Roteiro específico da Aula - 12/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula3.md)
 - [Roteiro específico da Aula - 15/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula4.md)
 - [Roteiro específico da Aula - 17/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula5.md)
 - [Roteiro específico da Aula - 22/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula6.md)
