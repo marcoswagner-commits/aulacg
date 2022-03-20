@@ -88,8 +88,8 @@ Github – http://www.github.com
 - [Trabalho 2 - Unificação de Algoritmos](https://github.com/marcoswagner-commits/projetos_cg/blob/c43851b0470c70dadfadf5fc2094c03faeb22cdf/Trabalho2%20-%20CG.pdf)
 
 ### Aulas
-- [Roteiro específico da Aula - 01/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula1.md)
-- [Roteiro específico da Aula - 08/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula2.md)
+- [Roteiro específico da Aula - 22/03/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula1.md)
+- [Roteiro específico da Aula - 24/03/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula2.md)
 - [Roteiro específico da Aula - 10/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula3.md)
 - [Roteiro específico da Aula - 15/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula4.md)
 - [Roteiro específico da Aula - 17/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula5.md)
