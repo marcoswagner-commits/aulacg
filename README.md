@@ -86,10 +86,13 @@ Github – http://www.github.com
 
 
 ### Trabalhos
-[Trabalho1 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312426/Trabalho1.-.CG.pdf)
-[Trabalho2 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312427/Trabalho2.-.CG.pdf)
-[Trabalho3 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312425/Trabalho3.-.CG.pdf)
-[Trabalho4 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312424/Trabalho4.-.CG.pdf)
+[Trabalho1 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312426/Trabalho1.-.CG.pdf)
+
+[Trabalho2 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312427/Trabalho2.-.CG.pdf)
+
+[Trabalho3 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312425/Trabalho3.-.CG.pdf)
+
+[Trabalho4 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312424/Trabalho4.-.CG.pdf)
 
 
 
