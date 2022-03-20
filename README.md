@@ -86,7 +86,13 @@ Github – http://www.github.com
 
 
 ### Trabalhos
-- [Trabalho 2 - Unificação de Algoritmos](https://github.com/marcoswagner-commits/projetos_cg/blob/c43851b0470c70dadfadf5fc2094c03faeb22cdf/Trabalho2%20-%20CG.pdf)
+[Trabalho1 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312426/Trabalho1.-.CG.pdf)
+[Trabalho2 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312427/Trabalho2.-.CG.pdf)
+[Trabalho3 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312425/Trabalho3.-.CG.pdf)
+[Trabalho4 - CG.pdf](https://github.com/marcoswagner-commits/projetos_cg/files/8312424/Trabalho4.-.CG.pdf)
+
+
+
 
 ### Aulas
 - - [Roteiro específico da Aula - 22/03/2022] Apresentação da Disciplina
