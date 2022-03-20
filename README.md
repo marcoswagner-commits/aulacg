@@ -1,13 +1,15 @@
 # Aula de Computação Gráfica - Curso de Ciências da Computação - UFJ
-# Roteiro – 2020/2 (2021)
+# Roteiro – 2021/2 (2022)
 
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 
-- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
+- [Plano de Ensino](https://github.com/marcoswagner-commits/projetos_cg/files/8312389/Plano_Ensino_CG_2021_2.2022.pdf)
+- [Planejamento do Semestre](https://github.com/marcoswagner-commits/projetos_cg/files/8312390/Planejamento.do.Semestre_2021_CG.pdf)
+
 
 ### 1.1 Conteúdos
-
+- [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
 
 
 ### 1.2 Metodologia
@@ -20,7 +22,7 @@
 - Trabalho 1 - Conceitos - Uso do Kahoot!
 - Trabalho 2 - Unificação de Algoritmos: Linhas, Polígonos e Circunferências
 - Trabalho 3 - Unificação de Algoritmos: Sistemas de Coordenadas, Recorte, Polígonos e Curvas
-- Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (Jogo de Xadrez) 
+- Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (Jogo de Damas) 
 
 ## 2  - Ferramentas e recursos
 
