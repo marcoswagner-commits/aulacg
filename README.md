@@ -5,7 +5,9 @@
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 
 - [Plano de Ensino](https://github.com/marcoswagner-commits/projetos_cg/files/8312389/Plano_Ensino_CG_2021_2.2022.pdf)
-- [Planejamento do Semestre](https://github.com/marcoswagner-commits/projetos_cg/files/8312390/Planejamento.do.Semestre_2021_CG.pdf)
+
+- [Planejamento do Semestre](https://github.com/marcoswagner-commits/projetos_cg/files/8315880/Planejamento.do.Semestre_2021_CG.pdf)
+
 
 
 ### 1.1 Conteúdos
