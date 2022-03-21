@@ -118,8 +118,8 @@ Github – http://www.github.com
 - - [Roteiro específico da Aula - 17/05/2022] Apresentação de Trabalhos
 - - [Roteiro específico da Aula - 19/05/2022] Projeto de Prática em CG
 - 
-- - [Roteiro específico da Aula - 24/05/2022]Espaço/Feira das Profissões! (https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula12.md)
-- - [Roteiro específico da Aula - 26/05/2022]Espaço/Feira das Profissões!(https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula13.md)
+- - [Roteiro específico da Aula - 24/05/2022 - Espaço/Feira das Profissões!] (https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula12.md)
+- - [Roteiro específico da Aula - 26/05/2022 - Espaço/Feira das Profissões!](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula13.md)
 - 
 - [Roteiro específico da Aula - 02/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula14.md)
 - [Roteiro específico da Aula - 07/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula15.md)
