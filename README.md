@@ -106,26 +106,29 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 05/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula1.md)
 - [Roteiro específico da Aula - 07/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula2.md)
 - [Roteiro específico da Aula - 12/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula3.md)
-- [Roteiro específico da Aula - 15/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula4.md)
-- [Roteiro específico da Aula - 17/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula5.md)
-- [Roteiro específico da Aula - 22/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula6.md)
-- [Roteiro específico da Aula - 24/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula7.md)
-- [Roteiro específico da Aula - 29/06/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula8.md)
-- [Roteiro específico da Aula - 01/07/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula9.md)
-- [Roteiro específico da Aula - 06/07/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula10.md)
-- [Roteiro específico da Aula - 08/07/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula11.md)
-- - [Roteiro específico da Aula - 13/07/2021] Apresentação de Trabalhos
-- - [Roteiro específico da Aula - 15/07/2021] Projeto de Prática em CG
-- [Roteiro específico da Aula - 03/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula12.md)
-- [Roteiro específico da Aula - 05/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula13.md)
-- - [Roteiro específico da Aula - 10/07/2021]UFJ Para Todos!
-- - [Roteiro específico da Aula - 12/07/2021]UFJ Para Todos!
-- [Roteiro específico da Aula - 17/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula14.md)
-- [Roteiro específico da Aula - 19/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula15.md)
-- [Roteiro específico da Aula - 24/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula16.md)
-- [Roteiro específico da Aula - 26/08/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula17.md)
-- - [Roteiro específico da Aula - 31/08/2021] Apresentação de Trabalhos
-- [Roteiro específico da Aula - 02/09/2021 a 16/09/2021](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula18.md)
-- - [Roteiro específico da Aula - 21/09/2021] Apresentação de Trabalhos
-- - [Roteiro específico da Aula - 23/09/2021] Projeto de Prática em CG
+- [Roteiro específico da Aula - 14/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula4.md)
+- [Roteiro específico da Aula - 19/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula5.md)
+- [Roteiro específico da Aula - 26/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula6.md)
+- [Roteiro específico da Aula - 28/04/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula7.md)
+- [Roteiro específico da Aula - 03/05/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula8.md)
+- [Roteiro específico da Aula - 05/05/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula9.md)
+- [Roteiro específico da Aula - 10/05/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula10.md)
+- [Roteiro específico da Aula - 12/05/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula11.md)
+- 
+- - [Roteiro específico da Aula - 17/05/2022] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 19/05/2022] Projeto de Prática em CG
+- 
+- - [Roteiro específico da Aula - 24/05/2022]Espaço/Feira das Profissões! (https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula12.md)
+- - [Roteiro específico da Aula - 26/05/2022]Espaço/Feira das Profissões!(https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula13.md)
+- 
+- [Roteiro específico da Aula - 02/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula14.md)
+- [Roteiro específico da Aula - 07/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula15.md)
+- [Roteiro específico da Aula - 09/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula16.md)
+- [Roteiro específico da Aula - 14/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula17.md)
+- 
+- - [Roteiro específico da Aula - 21/06/2022] Apresentação de Trabalhos
+- 
+- [Roteiro específico da Aula - 23/06/2022 a 30/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula18.md)
+- - [Roteiro específico da Aula - 05/07/2022] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 07/07/2022] Projeto de Prática em CG
 
