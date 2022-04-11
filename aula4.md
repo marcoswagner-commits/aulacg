@@ -1,6 +1,6 @@
 # Aula 04 - Computação Gráfica 
 
-> Aula 15/06/2021 - Computação Gráfica
+> Aula 14/04/2022 - Computação Gráfica
 > Atividades da aula - roteiro
 
 ## Implementação do Algoritmo Clássico de Geração de Linhas - Todos os algoritmos
