@@ -27,10 +27,10 @@ public class Desenha extends JFrame {
     @Override
     public void paint(Graphics g) {
         g.setColor(Color.red);
-        algDDA(g,10,40,60,90);
-        algDDA(g,10,40,50,100);
-        algDDA(g,10,40,80,40);
-        algDDA(g,10,40,10,90);
+        algBres(g,10,40,60,90);
+        algBres(g,10,40,50,100);
+        algBres(g,10,40,80,40);
+        algBres(g,10,40,10,90);
     }
        
 
