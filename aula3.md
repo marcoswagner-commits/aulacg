@@ -17,7 +17,7 @@ public class Desenha extends JFrame {
 
     public Desenha() {
         
-        this.setTitle("Algoritmo Analítico - Geração de Retas");
+        this.setTitle("Algoritmo de Bresenham - Geração de Retas");
         this.setSize(300,300);
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
