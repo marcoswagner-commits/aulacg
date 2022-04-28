@@ -1,7 +1,7 @@
 
 ## Aula 08 - Computação Gráfica
 
-> Aula 29/06/2021 - Computação Gráfica
+> Aula 03/05/2022 - Computação Gráfica
 > Atividades da aula - roteiro
 
 ## Implementação do Algoritmo Clássico de Preenchimento de Áreas - Comparação de Algoritmos
