@@ -1,6 +1,6 @@
 ## Aula 07 - Computação Gráfica
 
-> Aula 24/06/2021 - Computação Gráfica
+> Aula 28/04/2022 - Computação Gráfica
 > Atividades da aula - roteiro
 
 ## Implementação do Algoritmo Clássico de Preenchimento de Áreas - Análise Geométrica
