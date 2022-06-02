@@ -1,6 +1,6 @@
 ## Aula 14 - Computação Gráfica
 
-> Aula 17/08/2021 - Computação Gráfica
+> Aula 02/06/2022 - Computação Gráfica
 > Atividades da aula - roteiro
 
 ## Implementação de Algoritmo de Recorte de Retas Cohen-Sutherland
