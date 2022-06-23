@@ -15,6 +15,7 @@
 	Recomenda-se este curso para interessados no desenvolvimento de jogos, e não há necessidade de já ter tido contato com a Unity. Sugere-se uma pequena preparação sobre alguns conceitos de Computação Gráfica e Programação de Computadores com uso de linguagem C#. No entanto, qualquer carência destas naturezas podem ser supridas no próprio decorrer do curso com materiais complementares.
 
 O curso terá a seguinte estrutura:
+
 1 - Introdução
 
 2 - Programação
