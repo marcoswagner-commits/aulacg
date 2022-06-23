@@ -1,11 +1,14 @@
 ## Aula 18 - Computação Gráfica
 
-> Aula 02/09/2021 a 16/09/2021 - Computação Gráfica
+> Aula 23/06/2022 a 30/06/2022 - Computação Gráfica
 > Atividades da aula - roteiro
 
-## Engine Gráfica Unity3D
 
-- [Conteúdo do Curso - Material sugerido](https://profsalu.files.wordpress.com/2018/08/2-unity-3d-apresentac3a7c3a3o.pdf)
+## Engine Gráfica Unity3D
+- [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
+
+### Roteiro Caçadores de Ouro
+- [Roteiro Jogo Caçadores de Ouro](https://github.com/marcoswagner-commits/jogos_digitais/tree/documentos/documentos/cacadores_ouro.md)
 
 	Este curso é uma introdução a Engine de Modelagem Gráfica “Unity3D”. Uma engine que permite a construção de ambientes virtuais 2 e 3D, e, consequentemente possibilita a construção de jogos digitais (games), sejam pequenos e simples, ou, até mesmo grandes e complexos. Serão apresentados componentes básicos e essenciais desta ferramenta, comumente usados na maioria dos projetos. Será abordado desde instalação até a versão final de um jogo (build). Será usado como estudo de caso ou exemplo de aplicação o “Roll a Ball” um tutorial disponibilizado pela própria Unity (https://play.unity.com/mg/other/roll-a-ball-game-from-tutorial) e acrescentado algumas funcionalidades. Apesar de existirem vários projetos reconstruindo este tutorial, esta abordagem prima pelo uso de uma didática simples e acessível. Este projeto será construído com ênfase nos componentes 3D da ferramenta.
 
