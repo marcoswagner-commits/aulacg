@@ -48,7 +48,7 @@ O curso terá a seguinte estrutura:
 - [x] Instalação [↪️](https://unity3d.com/pt/get-unity/download)
  - Instalação do UnityHub
 - [x] Primeiro projeto (2D/3D)
- - AulaCG2021
+ - AulaCG2022
 - [x] Layout (telas)
  - Scene, Game, Project, Inspector, Hierarchy
 - [x] Primeiros Comandos
