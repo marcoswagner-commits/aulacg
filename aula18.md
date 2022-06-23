@@ -54,7 +54,7 @@ O curso terá a seguinte estrutura:
 - [x] Primeiros Comandos
  - GameObject 
  - Geometrias Primitiva
-- alt-c1, alt-c2, alt-c3, f
+- alt-c1, alt-c2, alt-c3, f...
 - [x] Tranformações (Move, Rotate, Scale) - Gizmos e Manipulação
 - [x] Materiais
  - Primeiro jogador (personagem) e primeiro plano  
