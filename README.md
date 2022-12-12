@@ -119,17 +119,15 @@ Github – http://www.github.com
 - - [Roteiro específico da Aula - 15/03/2023] Apresentação de Trabalhos
 - - [Roteiro específico da Aula - 16/03/2023] Projeto de Prática em CG
 - 
-- - [Roteiro específico da Aula - 24/05/2022 - Espaço/Feira das Profissões!](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula12.md)
-- - [Roteiro específico da Aula - 26/05/2022 - Espaço/Feira das Profissões!](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula13.md)
 - 
-- [Roteiro específico da Aula - 02/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula14.md)
-- [Roteiro específico da Aula - 07/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula15.md)
-- [Roteiro específico da Aula - 09/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula16.md)
-- [Roteiro específico da Aula - 14/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula17.md)
+- [Roteiro específico da Aula - 22/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula14.md)
+- [Roteiro específico da Aula - 23/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula15.md)
+- [Roteiro específico da Aula - 29/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula16.md)
+- [Roteiro específico da Aula - 30/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula17.md)
 - 
-- - [Roteiro específico da Aula - 21/06/2022] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 05/04/2023] Apresentação de Trabalhos
 - 
-- [Roteiro específico da Aula - 23/06/2022 a 30/06/2022](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula18.md)
-- - [Roteiro específico da Aula - 05/07/2022] Apresentação de Trabalhos
-- - [Roteiro específico da Aula - 07/07/2022] Projeto de Prática em CG
+- [Roteiro específico da Aula - 06/04/2023 a 04/05/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula18.md)
+- - [Roteiro específico da Aula - 10/05/2023] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 11/05/2023] Projeto de Prática em CG
 
