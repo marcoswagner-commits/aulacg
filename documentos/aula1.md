@@ -1,4 +1,4 @@
-# Aula 05/04/2022 - Computação Gráfica
+# Aula Algoritmos de Geração de Linhas Retas - Algoritmo Analítico - Computação Gráfica
 ## Atividades da aula - roteiro
 
 ## Implementação do Algoritmo Clássico de Geração de Linhas Analítico
