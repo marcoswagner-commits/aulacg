@@ -8,11 +8,8 @@
 - [Planejamento do Semestre](https://github.com/marcoswagner-commits/aulacg/files/10428338/Planejamento.do.Semestre_2022_CG.pdf)
 
 ### 1.1 Conteúdos
-- [Conteúdo do Curso - Módulo 1](https://github.com/marcoswagner-commits/projetos_cg/files/8312409/ApostilaCG2021_Modulo1.pdf)
-- [Conteúdo do Curso - Módulo 2](https://github.com/marcoswagner-commits/projetos_cg/files/8312410/ApostilaCG2021_Modulo2.pdf)
-- [ApostilaCG2021_Modulo1.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428455/ApostilaCG2021_Modulo1.pdf)
-[ApostilaCG2021_Modulo2.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428488/ApostilaCG2021_Modulo2.pdf)
-
+- [Conteúdo do Curso - Módulo 1](https://github.com/marcoswagner-commits/aulacg/files/10428455/ApostilaCG2021_Modulo1.pdf)
+- [Conteúdo do Curso - Módulo 2](https://github.com/marcoswagner-commits/aulacg/files/10428488/ApostilaCG2021_Modulo2.pdf)
 
 
 ### 1.2 Metodologia
@@ -25,7 +22,7 @@
 - Trabalho 1 - Conceitos - Uso do Kahoot!
 - Trabalho 2 - Unificação de Algoritmos: Linhas, Polígonos e Circunferências
 - Trabalho 3 - Unificação de Algoritmos: Sistemas de Coordenadas, Recorte, Polígonos e Curvas
-- Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (PitFall - Space Invaders - Enduro - H.e.r.o - River Raid) 
+- Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (PitFall - Space Invaders - Enduro - H.e.r.o. - River Raid) 
 	- Vide: https://www.atari2600.com.br/ 
 
 ## 2  - Ferramentas e recursos
@@ -92,7 +89,8 @@ Github – http://www.github.com
 [Trabalho1 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428426/Trabalho1.-.CG.pdf)
 [Trabalho2 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428428/Trabalho2.-.CG.pdf)
 [Trabalho3 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428433/Trabalho3.-.CG.pdf)
-[Trabalho4 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428437/Trabalho4.-.CG.pdf)
+[Trabalho4 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428659/Trabalho4.-.CG.pdf)
+
 
 
 
