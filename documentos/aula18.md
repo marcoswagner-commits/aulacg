@@ -1,9 +1,5 @@
 ## Aula 18 - Computação Gráfica
 
-> Aula 23/06/2022 a 30/06/2022 - Computação Gráfica
-> Atividades da aula - roteiro
-
-
 ## Engine Gráfica Unity3D
 - [Conteúdo do Curso - Material sugerido](https://docs.unity3d.com/Manual/Materials.html)
 
