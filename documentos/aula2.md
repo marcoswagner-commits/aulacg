@@ -1,4 +1,4 @@
-# Aula Algoritmos de Geração de Linhas Retas - Algoritmo DDA - Computação Gráfica
+# Aula Algoritmos de Geração de Linhas Retas - Algoritmo DDA
 ## Atividades da aula - roteiro
 
 ## Implementação do Algoritmo Clássico de Geração de Linhas - DDA (Analisador Diferencial Digital)
