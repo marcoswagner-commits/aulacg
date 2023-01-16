@@ -1,5 +1,6 @@
 # Aula Algoritmos Geração de Linhas Retas
-3 - Algoritmo de Bresenham - Computação Gráfica
+###  Algoritmo de Bresenham
+
 ## Atividades da aula - roteiro
 
 ## Implementação do Algoritmo Clássico de Geração de Linhas - Método de Bresenham
