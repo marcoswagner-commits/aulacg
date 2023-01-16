@@ -1,8 +1,5 @@
 ## Aula 16 - Computação Gráfica
 
-> Aula 24/08/2021 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação de Algoritmo de Curvas de Bézier
 
 - [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/6ad36f5898322174ec7c05a76d1d8c4e67e97656/ApostilaCG2021_Modulo2.pdf)
