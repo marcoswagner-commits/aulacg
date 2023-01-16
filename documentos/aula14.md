@@ -1,8 +1,5 @@
 ## Aula 14 - Computação Gráfica
 
-> Aula 02/06/2022 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação de Algoritmo de Recorte de Retas Cohen-Sutherland
 
 - [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/9975b088ca6fb64716755c43595c7281cf3b5d59/ApostilaCG2021_Modulo2.pdf)
