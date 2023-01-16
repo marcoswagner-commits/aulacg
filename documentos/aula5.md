@@ -1,8 +1,5 @@
 ## Aula 05 - Computação Gráfica
 
-> Aula 19/04/2022 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação do Algoritmo Clássico de Preenchimento de Áreas - Varredura
 
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
