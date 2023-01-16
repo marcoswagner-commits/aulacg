@@ -1,5 +1,5 @@
 # Aula Algoritmos de Geração de Linhas Retas 
-### - Algoritmo Analítico
+### Algoritmo Analítico
 
 ## Atividades da aula - roteiro
 
