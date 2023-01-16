@@ -1,9 +1,6 @@
 
 ## Aula 08 - Computação Gráfica
 
-> Aula 03/05/2022 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação do Algoritmo Clássico de Preenchimento de Áreas - Comparação de Algoritmos
 
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
