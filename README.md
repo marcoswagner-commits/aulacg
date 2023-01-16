@@ -4,11 +4,9 @@
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
 
-- [Plano de Ensino](https://github.com/marcoswagner-commits/projetos_cg/files/8312389/Plano_Ensino_CG_2021_2.2022.pdf)
+- [Plano de Ensino](https://github.com/marcoswagner-commits/aulacg/files/10428342/Plano_Ensino_CG_2022_2.2023.pdf)
 
-- [Planejamento do Semestre](https://github.com/marcoswagner-commits/projetos_cg/files/8315880/Planejamento.do.Semestre_2021_CG.pdf)
-
-
+- [Planejamento do Semestre](https://github.com/marcoswagner-commits/aulacg/files/10428338/Planejamento.do.Semestre_2022_CG.pdf)
 
 ### 1.1 Conteúdos
 - [Conteúdo do Curso - Módulo 1](https://github.com/marcoswagner-commits/projetos_cg/files/8312409/ApostilaCG2021_Modulo1.pdf)
@@ -25,7 +23,8 @@
 - Trabalho 1 - Conceitos - Uso do Kahoot!
 - Trabalho 2 - Unificação de Algoritmos: Linhas, Polígonos e Circunferências
 - Trabalho 3 - Unificação de Algoritmos: Sistemas de Coordenadas, Recorte, Polígonos e Curvas
-- Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (Pac Man) 
+- Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (PitFall - Space Invaders - Enduro - H.e.r.o - River Raid) 
+	- Vide: https://www.atari2600.com.br/ 
 
 ## 2  - Ferramentas e recursos
 
@@ -88,19 +87,16 @@ Github – http://www.github.com
 
 
 ### Trabalhos
-[Trabalho1 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312426/Trabalho1.-.CG.pdf)
-
-[Trabalho2 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312427/Trabalho2.-.CG.pdf)
-
-[Trabalho3 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312425/Trabalho3.-.CG.pdf)
-
-[Trabalho4 - CG](https://github.com/marcoswagner-commits/projetos_cg/files/8312424/Trabalho4.-.CG.pdf)
+[Trabalho1 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428426/Trabalho1.-.CG.pdf)
+[Trabalho2 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428428/Trabalho2.-.CG.pdf)
+[Trabalho3 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428433/Trabalho3.-.CG.pdf)
+[Trabalho4 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428437/Trabalho4.-.CG.pdf)
 
 
 
 
 ### Aulas
-- - [Roteiro específico da Aula - 11/01 a 25/01/2023] Apresentação da Disciplina - História, Conceitos e Definições
+- - [Roteiro específico da Aula - 18/01 a 25/01/2023] Apresentação da Disciplina - História, Conceitos e Definições
 - - [Roteiro específico da Aula - 26/01/2023] Trabalho 1 - Gamificação – Kahoot!
 
 - [Roteiro específico da Aula - 01/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula1.md)
