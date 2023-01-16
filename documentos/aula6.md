@@ -1,8 +1,5 @@
 ## Aula 06 - Computação Gráfica
 
-> Aula 26/04/2022 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação do Algoritmo Clássico de Preenchimento de Áreas - Boundary-Fill
 
 - Veja o vídeo abaixo que mostra a implementação dos algoritmos
