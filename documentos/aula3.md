@@ -1,5 +1,4 @@
-# Aula Algoritmos Geração de Linhas Retas
-###  Algoritmo de Bresenham
+# Aula Algoritmos Geração de Linhas Retas - Algoritmo de Bresenham
 
 ## Atividades da aula - roteiro
 
