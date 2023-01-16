@@ -1,4 +1,5 @@
-# Aula 12/04/2022 - Computação Gráfica
+# Aula Algoritmos Geração de Linhas Retas
+3 - Algoritmo de Bresenham - Computação Gráfica
 ## Atividades da aula - roteiro
 
 ## Implementação do Algoritmo Clássico de Geração de Linhas - Método de Bresenham
