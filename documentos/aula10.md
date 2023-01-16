@@ -1,9 +1,6 @@
 
 ## Aula 10 - Computação Gráfica
 
-> Aula 06/07/2021 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação do Algoritmo Clássico de Circunferência - Incremental com Simetria
 
 - [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/56bc895a869568bf9bb4c13f42e976b133f58330/ApostilaCG2021_Modulo2.pdf)
