@@ -99,8 +99,8 @@ Github – http://www.github.com
 - - [Roteiro específico da Aula - 18/01 a 25/01/2023] Apresentação da Disciplina - História, Conceitos e Definições
 - - [Roteiro específico da Aula - 26/01/2023] Trabalho 1 - Gamificação – Kahoot!
 
-- [Roteiro específico da Aula - 01/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula1.md)
-- [Roteiro específico da Aula - 02/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula2.md)
+- [Roteiro específico da Aula - 01/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula1.md)
+- [Roteiro específico da Aula - 02/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula2.md)
 - [Roteiro específico da Aula - 08/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula3.md)
 - [Roteiro específico da Aula - 09/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula4.md)
 - [Roteiro específico da Aula - 15/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/aula5.md)
