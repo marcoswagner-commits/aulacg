@@ -1,8 +1,5 @@
 ## Aula 12 - Computação Gráfica
 
-> Aula 03/08/2021 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação de Algoritmos para demonstração das transformações geométricas
 
 ![anima_escala](https://user-images.githubusercontent.com/81576640/127195708-b8ebfbe9-8e3d-4129-89d3-9d6e7a28ba6c.gif)
