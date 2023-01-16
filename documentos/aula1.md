@@ -1,14 +1,11 @@
 # Aula 01 - Computação Gráfica 
 
-## Implementação do Algoritmo Clássico de Geração de Linhas - Algoritmo Analítico
-
-
 ## Implementação do Algoritmo Clássico de Geração de Linhas Analítico
 
 
 
 - Vejam os vídeos abaixo que mostram a implementação do algoritmo
-- 
+ 
 [![material complementar](https://github.com/marcoswagner-commits/projetos_cg/blob/c436c691824aff2880313362d2355ffb8b726cbe/Capa_Aula1_Mod_1.png)](https://youtu.be/l2LYNFHsraY)
 -
 
