@@ -1,8 +1,5 @@
 ## Aula 15 - Computação Gráfica
 
-> Aula 19/08/2021 - Computação Gráfica
-> Atividades da aula - roteiro
-
 ## Implementação de Algoritmo de Recorte de Polígono Sutherland-Hodgman
 
 - [Conteúdo do Curso](https://github.com/marcoswagner-commits/projetos_cg/blob/3e7133004a04b725d1041a53c2f84f1cb1af16b9/ApostilaCG2021_Modulo2.pdf)
