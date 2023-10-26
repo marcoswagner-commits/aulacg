@@ -1,5 +1,5 @@
 # Aula de Computação Gráfica - Curso de Ciências da Computação - UFJ
-# Roteiro – 2022/2 (2023)
+# Roteiro – 2023/2
 
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
@@ -96,28 +96,31 @@ Github – http://www.github.com
 
 
 ### Aulas
-- - [Roteiro específico da Aula - 18/01 a 25/01/2023] Apresentação da Disciplina - História, Conceitos e Definições
-- - [Roteiro específico da Aula - 26/01/2023] Trabalho 1 - Gamificação – Kahoot!
-
-- [Roteiro específico da Aula - 01/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula1.md)
-- [Roteiro específico da Aula - 02/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula2.md)
-- [Roteiro específico da Aula - 08/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula3.md)
-- [Roteiro específico da Aula - 09/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula4.md)
-- [Roteiro específico da Aula - 15/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula5.md)
-- [Roteiro específico da Aula - 16/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula6.md)
-- [Roteiro específico da Aula - 22/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula7.md)
-- [Roteiro específico da Aula - 23/02/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula7.md)
-- [Roteiro específico da Aula - 01/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula8.md)
-- [Roteiro específico da Aula - 02/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula9.md)
-- [Roteiro específico da Aula - 08/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula10.md)
-- [Roteiro específico da Aula - 09/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula11.md)
+- - [Roteiro específico da Aula - 30/10 a 08/11/2023] Apresentação da Disciplina - História, Conceitos e Definições
+- - [Roteiro específico da Aula - 13/11/2023] Trabalho 1 - Gamificação – Kahoot!
+#### Novembro/2023
+- [Roteiro específico da Aula - 20/11/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula1.md)
+- [Roteiro específico da Aula - 22/11/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula2.md)
+- [Roteiro específico da Aula - 27/11/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula3.md)
+- [Roteiro específico da Aula - 29/11/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula4.md)
+#### Dezembro/2023
+- [Roteiro específico da Aula - 04/12/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula5.md)
+- [Roteiro específico da Aula - 06/12/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula6.md)
+- [Roteiro específico da Aula - 11/12/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula7.md)
+- [Roteiro específico da Aula - 13/12/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula7.md)
+#### Janeiro/2024
+- [Roteiro específico da Aula - 08/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula8.md)
+- [Roteiro específico da Aula - 10/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula9.md)
+- [Roteiro específico da Aula - 15/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula10.md)
+- [Roteiro específico da Aula - 17/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula11.md)
 - 
-- - [Roteiro específico da Aula - 15/03/2023] Apresentação de Trabalhos
-- - [Roteiro específico da Aula - 16/03/2023] Projeto de Prática em CG
+- - [Roteiro específico da Aula - 22/01/2024] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 24/01/2024] Projeto de Prática em CG
 - 
 - 
-- [Roteiro específico da Aula - 22/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula14.md)
-- [Roteiro específico da Aula - 23/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula15.md)
+- [Roteiro específico da Aula - 29/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula14.md)
+- [Roteiro específico da Aula - 31/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula15.md)
+- #### Fevereiro/2024
 - [Roteiro específico da Aula - 29/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula16.md)
 - [Roteiro específico da Aula - 30/03/2023](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula17.md)
 - 
