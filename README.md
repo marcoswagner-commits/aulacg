@@ -3,6 +3,7 @@
 
 ## 1 - Apresentação da disciplina: Plano de Ensino – Conteúdos – Metodologia – Avaliações
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
+ 
 
 - [Plano de Ensino](https://github.com/marcoswagner-commits/aulacg/files/10428342/Plano_Ensino_CG_2022_2.2023.pdf)
 - [Planejamento do Semestre](https://github.com/marcoswagner-commits/aulacg/files/10428338/Planejamento.do.Semestre_2022_CG.pdf)
@@ -114,7 +115,7 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - 15/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula10.md)
 - [Roteiro específico da Aula - 17/01/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula11.md)
 - 
-- - [Roteiro específico da Aula - 22/01/2024] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 22/01/2024] Trabalho 2 - Unificação de Algoritmos: Linhas, Polígonos e Circunferências
 - - [Roteiro específico da Aula - 24/01/2024] Projeto de Prática em CG
 - 
 - 
@@ -125,10 +126,10 @@ Github – http://www.github.com
 - [Roteiro específico da Aula - Extra 2](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula17.md)
 
 #### Fevereiro/2024
-- - [Roteiro específico da Aula - 19/02/2024] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 19/02/2024] Trabalho 3 - Unificação de Algoritmos: Sistemas de Coordenadas, Recorte, Polígonos e Curvas
 - 
 - [Roteiro específico da Aula - 21/02/2024 a 28/02/2024](https://github.com/marcoswagner-commits/projetos_cg/blob/main/documentos/aula18.md)
 - #### Março/2024
-- - [Roteiro específico da Aula - 04/03/2024] Apresentação de Trabalhos
+- - [Roteiro específico da Aula - 04/03/2024] Trabalho 4 - Ambiente virtual (jogo) 3D usando Unity3D (PitFall - Space Invaders - Enduro - H.e.r.o. - River Raid) 
 - - [Roteiro específico da Aula - 06/03/2024] Projeto de Prática em CG
 
