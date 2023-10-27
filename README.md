@@ -87,10 +87,11 @@ Github – http://www.github.com
 
 
 ### Trabalhos
-[Trabalho1 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428426/Trabalho1.-.CG.pdf)
-[Trabalho2 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428428/Trabalho2.-.CG.pdf)
-[Trabalho3 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428433/Trabalho3.-.CG.pdf)
-[Trabalho4 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/files/10428659/Trabalho4.-.CG.pdf)
+
+[Trabalho1 - CG.pdf](documentos/Trabalho1 - CG.pdf)
+[Trabalho2 - CG.pdf](documentos/Trabalho2 - CG.pdf)
+[Trabalho3 - CG.pdf](documentos/Trabalho3 - CG.pdf)
+[Trabalho4 - CG.pdf](documentos/Trabalho4 - CG.pdf)
 
 
 
