@@ -5,8 +5,8 @@
 	* Vide Plano de Ensino; Planejamento da Disciplina; documento Conteúdos
  
 
-- [Plano de Ensino](https://github.com/marcoswagner-commits/aulacg/files/10428342/Plano_Ensino_CG_2022_2.2023.pdf)
-- [Planejamento do Semestre](https://github.com/marcoswagner-commits/aulacg/files/10428338/Planejamento.do.Semestre_2022_CG.pdf)
+- [Plano de Ensino](https://github.com/marcoswagner-commits/aulacg/blob/5d84a5926f9ace6746d607d4aed21ac3f3071b5b/documentos/Plano_Ensino_CG_2023_2_Marcos_Wagner.pdf)
+- [Planejamento do Semestre](https://github.com/marcoswagner-commits/aulacg/blob/5d84a5926f9ace6746d607d4aed21ac3f3071b5b/documentos/Planejamento%20do%20Semestre_2023_CG_Marcos_Wagner.pdf)
 
 ### 1.1 Conteúdos
 - [Conteúdo do Curso - Módulo 1](https://github.com/marcoswagner-commits/aulacg/files/10428455/ApostilaCG2021_Modulo1.pdf)
