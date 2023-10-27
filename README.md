@@ -89,9 +89,12 @@ Github – http://www.github.com
 ### Trabalhos
 
 [Trabalho1 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/blob/15b7895f13c40ada1da0710138d5fa00d748bfac/documentos/Trabalho1%20-%20CG.pdf)
+
 [Trabalho2 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/blob/2806ec17d835ca3860d041c20a72338e24caa322/documentos/Trabalho2%20-%20CG.pdf)
-[Trabalho3 - CG.pdf]()
-[Trabalho4 - CG.pdf]()
+
+[Trabalho3 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/blob/33e8ca2ba0c02a358c26515bde776306245e8f53/documentos/Trabalho3%20-%20CG.pdf)
+
+[Trabalho4 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/blob/33e8ca2ba0c02a358c26515bde776306245e8f53/documentos/Trabalho4%20-%20CG.pdf)
 
 
 
