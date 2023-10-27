@@ -89,7 +89,7 @@ Github – http://www.github.com
 ### Trabalhos
 
 [Trabalho1 - CG.pdf](documentos/Trabalho1 - CG.pdf)
-[Trabalho2 - CG.pdf](documentos/Trabalho2 - CG.pdf)
+[Trabalho2 - CG.pdf](https://github.com/marcoswagner-commits/aulacg/blob/2806ec17d835ca3860d041c20a72338e24caa322/documentos/Trabalho2%20-%20CG.pdf)
 [Trabalho3 - CG.pdf](documentos/Trabalho3 - CG.pdf)
 [Trabalho4 - CG.pdf](documentos/Trabalho4 - CG.pdf)
 
